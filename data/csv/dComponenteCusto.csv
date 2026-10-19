@@ -1,0 +1,6 @@
+id_componente,componente,fator_dia_de_espera
+CC01,"Equipe assistencial (enfermagem, médica e multiprofissional)",1
+CC02,"Hotelaria (nutrição, higienização e lavanderia)",1
+CC03,Medicamentos e materiais,0.35
+CC04,Apoio diagnóstico (laboratório e imagem),0.15
+CC05,Estrutura e administração (rateio),1

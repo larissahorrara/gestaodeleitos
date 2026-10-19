@@ -1,0 +1,9 @@
+id_motivo,motivo,area_responsavel,acao_recomendada
+MD01,Alta social,Serviço Social,Triagem de risco social na admissão; plano de alta iniciado em até 48 h; articulação com CRAS/CREAS e família; reunião semanal de casos longos.
+MD02,Falta de transporte,Transporte sanitário / NIR,Agendar o transporte na véspera da alta prevista; escala de ambulância para altas até 10 h; sala de alta para aguardar fora do leito.
+MD03,Falta de acompanhante ou responsável,Serviço Social,Identificar o responsável na admissão; contato ativo com a família na véspera; protocolo de alta com rede de apoio.
+MD04,Aguardando leito de retaguarda,NIR / Regulação estadual,Solicitar a vaga assim que a alta for previsível; pactuar cotas com hospitais de cuidados prolongados e ILPI; escalonar casos acima de 5 dias.
+MD05,Aguardando atenção domiciliar,Atenção domiciliar (SAD),Encaminhar ao SAD/Melhor em Casa no início da internação; checklist de oxigênio e equipamentos domiciliares.
+MD06,Aguardando insumo ou equipamento para alta,Farmácia e suprimentos,"Prever órteses, curativos e oxigênio na véspera; estoque mínimo para alta; dispensação antes das 10 h."
+MD07,Pendência judicial ou documental,Jurídico / Serviço Social,Acionar Jurídico e Serviço Social no primeiro dia; modelo padronizado de comunicação ao Ministério Público e à Defensoria.
+MD08,Aguardando transferência para outro serviço,NIR / Regulação estadual,Inserir o pedido na regulação junto com a previsão de alta; acompanhamento diário pelo NIR.

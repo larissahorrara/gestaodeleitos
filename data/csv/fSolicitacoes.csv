@@ -1,0 +1,832 @@
+id_solicitacao,data_solicitacao,origem,id_unidade_destino,prioridade,data_alocacao,status,tempo_espera_h,atendida_ate_6h
+SOL-00001,2026-09-20 12:24,Regulação (SISREG),CM,Urgência,2026-09-20 22:13,Atendida,9.8,Não
+SOL-00002,2026-09-20 13:41,Pronto-Socorro,PED,Emergência,2026-09-20 14:49,Atendida,1.1,Sim
+SOL-00003,2026-09-20 02:28,Centro Cirúrgico,UTI,Eletiva,2026-09-20 14:20,Atendida,11.9,Não
+SOL-00004,2026-09-20 04:19,Pronto-Socorro,PED,Urgência,2026-09-20 07:20,Atendida,3,Sim
+SOL-00005,2026-09-20 00:28,Ambulatório/Eletivo,CM,Eletiva,2026-09-20 12:29,Atendida,12,Não
+SOL-00006,2026-09-20 21:41,Pronto-Socorro,CM,Emergência,2026-09-20 23:53,Atendida,2.2,Sim
+SOL-00007,2026-09-20 22:00,Pronto-Socorro,CM,Urgência,2026-09-22 14:26,Atendida,40.4,Não
+SOL-00008,2026-09-20 12:48,Pronto-Socorro,MAT,Urgência,2026-09-20 20:05,Atendida,7.3,Não
+SOL-00009,2026-09-20 16:48,Pronto-Socorro,CM,Emergência,2026-09-20 21:44,Atendida,4.9,Sim
+SOL-00010,2026-09-20 21:40,Pronto-Socorro,CM,Urgência,2026-09-21 15:21,Atendida,17.7,Não
+SOL-00011,2026-09-20 07:09,Pronto-Socorro,MAT,Urgência,2026-09-20 10:08,Atendida,3,Sim
+SOL-00012,2026-09-20 04:56,Pronto-Socorro,CM,Eletiva,,Cancelada,14.8,Não
+SOL-00013,2026-09-20 08:54,Centro Cirúrgico,ORT,Urgência,2026-09-21 12:16,Atendida,27.4,Não
+SOL-00014,2026-09-20 11:48,Pronto-Socorro,UCI,Urgência,2026-09-20 20:07,Atendida,8.3,Não
+SOL-00015,2026-09-20 01:29,Pronto-Socorro,CM,Emergência,2026-09-20 04:10,Atendida,2.7,Sim
+SOL-00016,2026-09-20 09:45,Pronto-Socorro,CM,Eletiva,2026-09-21 14:34,Atendida,28.8,Não
+SOL-00017,2026-09-20 09:04,Pronto-Socorro,CC,Eletiva,2026-09-21 00:28,Atendida,15.4,Não
+SOL-00018,2026-09-20 23:57,Ambulatório/Eletivo,CM,Eletiva,2026-09-22 03:19,Atendida,27.4,Não
+SOL-00019,2026-09-20 19:50,Ambulatório/Eletivo,UTI,Eletiva,2026-09-24 19:50,Atendida,96,Não
+SOL-00020,2026-09-20 13:51,Pronto-Socorro,ONC,Eletiva,2026-09-21 14:45,Atendida,24.9,Não
+SOL-00021,2026-09-20 00:00,Regulação (SISREG),CM,Urgência,2026-09-20 21:03,Atendida,21,Não
+SOL-00022,2026-09-20 15:39,Pronto-Socorro,CM,Emergência,2026-09-20 20:29,Atendida,4.8,Sim
+SOL-00023,2026-09-20 10:33,Pronto-Socorro,CM,Eletiva,2026-09-21 02:07,Atendida,15.6,Não
+SOL-00024,2026-09-20 19:02,Pronto-Socorro,ONC,Emergência,2026-09-20 21:35,Atendida,2.5,Sim
+SOL-00025,2026-09-20 15:55,Pronto-Socorro,CC,Urgência,,Cancelada,5.5,Não
+SOL-00026,2026-09-21 23:21,Ambulatório/Eletivo,CM,Eletiva,2026-09-22 06:02,Atendida,6.7,Não
+SOL-00027,2026-09-21 06:11,Regulação (SISREG),PED,Urgência,2026-09-21 09:17,Atendida,3.1,Sim
+SOL-00028,2026-09-21 11:16,Pronto-Socorro,CM,Urgência,2026-09-22 00:33,Atendida,13.3,Não
+SOL-00029,2026-09-21 12:19,Regulação (SISREG),MAT,Urgência,2026-09-21 16:26,Atendida,4.1,Sim
+SOL-00030,2026-09-21 04:41,Pronto-Socorro,CM,Eletiva,2026-09-24 14:44,Atendida,82.1,Não
+SOL-00031,2026-09-21 13:21,Pronto-Socorro,UCI,Urgência,,Cancelada,3.9,Não
+SOL-00032,2026-09-21 00:18,Pronto-Socorro,ORT,Urgência,2026-09-21 18:33,Atendida,18.3,Não
+SOL-00033,2026-09-21 21:53,Pronto-Socorro,PED,Emergência,2026-09-21 22:48,Atendida,0.9,Sim
+SOL-00034,2026-09-21 17:21,Pronto-Socorro,ORT,Urgência,2026-09-22 03:00,Atendida,9.6,Não
+SOL-00035,2026-09-21 08:30,Pronto-Socorro,UTI,Urgência,2026-09-21 20:48,Atendida,12.3,Não
+SOL-00036,2026-09-21 19:24,Pronto-Socorro,UTIN,Urgência,2026-09-22 01:56,Atendida,6.5,Não
+SOL-00037,2026-09-21 14:33,Centro Cirúrgico,CM,Eletiva,2026-09-22 04:31,Atendida,14,Não
+SOL-00038,2026-09-21 12:43,Centro Cirúrgico,CM,Urgência,2026-09-21 19:22,Atendida,6.7,Não
+SOL-00039,2026-09-21 04:36,Pronto-Socorro,UTI,Eletiva,2026-09-22 00:24,Atendida,19.8,Não
+SOL-00040,2026-09-21 16:43,Regulação (SISREG),MAT,Urgência,2026-09-21 18:41,Atendida,2,Sim
+SOL-00041,2026-09-21 08:56,Regulação (SISREG),CC,Emergência,2026-09-21 10:31,Atendida,1.6,Sim
+SOL-00042,2026-09-21 19:13,Pronto-Socorro,PED,Eletiva,2026-09-22 02:05,Atendida,6.9,Não
+SOL-00043,2026-09-21 21:14,Centro Cirúrgico,CM,Emergência,2026-09-22 02:36,Atendida,5.4,Sim
+SOL-00044,2026-09-21 04:19,Ambulatório/Eletivo,UTI,Eletiva,2026-09-21 10:55,Atendida,6.6,Não
+SOL-00045,2026-09-21 07:04,Regulação (SISREG),UCI,Urgência,2026-09-21 10:21,Atendida,3.3,Sim
+SOL-00046,2026-09-21 23:46,Centro Cirúrgico,ORT,Urgência,2026-09-22 06:51,Atendida,7.1,Não
+SOL-00047,2026-09-21 23:16,Pronto-Socorro,UTI,Urgência,2026-09-22 08:17,Atendida,9,Não
+SOL-00048,2026-09-21 06:20,Regulação (SISREG),CC,Urgência,2026-09-21 08:57,Atendida,2.6,Sim
+SOL-00049,2026-09-21 19:05,Pronto-Socorro,CC,Urgência,2026-09-21 20:23,Atendida,1.3,Sim
+SOL-00050,2026-09-21 04:34,Pronto-Socorro,CM,Urgência,2026-09-21 12:42,Atendida,8.1,Não
+SOL-00051,2026-09-21 17:12,Pronto-Socorro,CM,Urgência,2026-09-22 11:30,Atendida,18.3,Não
+SOL-00052,2026-09-21 23:40,Regulação (SISREG),UTI,Urgência,2026-09-22 09:31,Atendida,9.9,Não
+SOL-00053,2026-09-21 03:53,Pronto-Socorro,CC,Urgência,,Cancelada,5.1,Não
+SOL-00054,2026-09-21 02:54,Pronto-Socorro,CC,Emergência,2026-09-21 05:26,Atendida,2.5,Sim
+SOL-00055,2026-09-21 10:05,Regulação (SISREG),MAT,Urgência,2026-09-21 14:33,Atendida,4.5,Sim
+SOL-00056,2026-09-21 22:18,Regulação (SISREG),ORT,Urgência,2026-09-22 00:49,Atendida,2.5,Sim
+SOL-00057,2026-09-21 00:56,Ambulatório/Eletivo,PED,Eletiva,2026-09-21 04:32,Atendida,3.6,Sim
+SOL-00058,2026-09-21 21:12,Regulação (SISREG),MAT,Urgência,2026-09-22 01:38,Atendida,4.4,Sim
+SOL-00059,2026-09-21 16:09,Pronto-Socorro,MAT,Urgência,2026-09-22 05:04,Atendida,12.9,Não
+SOL-00060,2026-09-22 06:31,Pronto-Socorro,INF,Urgência,2026-09-22 10:51,Atendida,4.3,Sim
+SOL-00061,2026-09-22 10:49,Pronto-Socorro,PED,Eletiva,2026-09-22 13:56,Atendida,3.1,Sim
+SOL-00062,2026-09-22 04:56,Pronto-Socorro,UCI,Urgência,2026-09-22 08:06,Atendida,3.2,Sim
+SOL-00063,2026-09-22 16:44,Ambulatório/Eletivo,PED,Eletiva,2026-09-22 21:26,Atendida,4.7,Sim
+SOL-00064,2026-09-22 07:44,Ambulatório/Eletivo,ORT,Eletiva,2026-09-22 13:28,Atendida,5.7,Sim
+SOL-00065,2026-09-22 21:05,Pronto-Socorro,UTIN,Urgência,2026-09-22 21:48,Atendida,0.7,Sim
+SOL-00066,2026-09-22 03:39,Ambulatório/Eletivo,INF,Eletiva,2026-09-22 13:45,Atendida,10.1,Não
+SOL-00067,2026-09-22 17:13,Pronto-Socorro,CM,Urgência,2026-09-22 20:09,Atendida,2.9,Sim
+SOL-00068,2026-09-22 16:09,Pronto-Socorro,UTI,Emergência,,Cancelada,3.7,Não
+SOL-00069,2026-09-22 02:25,Pronto-Socorro,CM,Eletiva,2026-09-22 20:54,Atendida,18.5,Não
+SOL-00070,2026-09-22 18:47,Pronto-Socorro,PED,Eletiva,2026-09-22 21:16,Atendida,2.5,Sim
+SOL-00071,2026-09-22 03:29,Regulação (SISREG),UTIN,Urgência,2026-09-22 07:01,Atendida,3.5,Sim
+SOL-00072,2026-09-22 07:57,Centro Cirúrgico,CM,Eletiva,2026-09-23 00:56,Atendida,17,Não
+SOL-00073,2026-09-22 04:09,Pronto-Socorro,CM,Urgência,2026-09-22 10:46,Atendida,6.6,Não
+SOL-00074,2026-09-22 02:34,Regulação (SISREG),UTI,Urgência,2026-09-22 07:55,Atendida,5.4,Sim
+SOL-00075,2026-09-22 14:58,Pronto-Socorro,ORT,Emergência,2026-09-22 22:48,Atendida,7.8,Não
+SOL-00076,2026-09-22 10:13,Pronto-Socorro,UTIN,Urgência,2026-09-23 02:37,Atendida,16.4,Não
+SOL-00077,2026-09-22 05:14,Pronto-Socorro,ONC,Urgência,2026-09-22 13:07,Atendida,7.9,Não
+SOL-00078,2026-09-22 06:52,Pronto-Socorro,UTI,Urgência,2026-09-22 19:15,Atendida,12.4,Não
+SOL-00079,2026-09-22 11:19,Pronto-Socorro,UTI,Urgência,2026-09-22 17:02,Atendida,5.7,Sim
+SOL-00080,2026-09-22 09:07,Centro Cirúrgico,PED,Urgência,2026-09-22 10:20,Atendida,1.2,Sim
+SOL-00081,2026-09-22 20:22,Ambulatório/Eletivo,UTI,Eletiva,2026-09-23 16:45,Atendida,20.4,Não
+SOL-00082,2026-09-22 10:27,Pronto-Socorro,UTI,Urgência,2026-09-22 22:13,Atendida,11.8,Não
+SOL-00083,2026-09-22 10:10,Pronto-Socorro,CM,Urgência,2026-09-22 21:07,Atendida,10.9,Não
+SOL-00084,2026-09-22 01:43,Pronto-Socorro,INF,Urgência,2026-09-22 06:44,Atendida,5,Sim
+SOL-00085,2026-09-22 22:06,Regulação (SISREG),CM,Urgência,2026-09-23 18:13,Atendida,20.1,Não
+SOL-00086,2026-09-22 17:36,Centro Cirúrgico,CM,Eletiva,2026-09-23 22:28,Atendida,28.9,Não
+SOL-00087,2026-09-22 22:30,Pronto-Socorro,CM,Urgência,2026-09-23 06:18,Atendida,7.8,Não
+SOL-00088,2026-09-22 01:13,Pronto-Socorro,ORT,Urgência,2026-09-22 05:24,Atendida,4.2,Sim
+SOL-00089,2026-09-22 11:27,Centro Cirúrgico,ORT,Eletiva,2026-09-22 15:02,Atendida,3.6,Sim
+SOL-00090,2026-09-22 13:33,Pronto-Socorro,UCI,Urgência,2026-09-23 01:04,Atendida,11.5,Não
+SOL-00091,2026-09-23 06:39,Regulação (SISREG),PED,Emergência,2026-09-23 07:12,Atendida,0.6,Sim
+SOL-00092,2026-09-23 22:02,Ambulatório/Eletivo,CM,Eletiva,2026-09-24 07:29,Atendida,9.4,Não
+SOL-00093,2026-09-23 13:54,Ambulatório/Eletivo,UCI,Eletiva,2026-09-24 07:57,Atendida,18,Não
+SOL-00094,2026-09-23 05:05,Pronto-Socorro,UCI,Emergência,2026-09-23 06:11,Atendida,1.1,Sim
+SOL-00095,2026-09-23 11:11,Pronto-Socorro,CM,Urgência,2026-09-23 19:57,Atendida,8.8,Não
+SOL-00096,2026-09-23 04:59,Regulação (SISREG),CM,Eletiva,2026-09-24 20:19,Atendida,39.3,Não
+SOL-00097,2026-09-23 22:57,Pronto-Socorro,UTI,Urgência,2026-09-24 05:40,Atendida,6.7,Não
+SOL-00098,2026-09-23 17:21,Centro Cirúrgico,ORT,Eletiva,2026-09-24 01:40,Atendida,8.3,Não
+SOL-00099,2026-09-23 20:32,Pronto-Socorro,CM,Emergência,2026-09-23 21:40,Atendida,1.1,Sim
+SOL-00100,2026-09-23 05:06,Pronto-Socorro,UCI,Urgência,2026-09-23 09:20,Atendida,4.2,Sim
+SOL-00101,2026-09-23 18:15,Regulação (SISREG),ORT,Eletiva,2026-09-24 01:52,Atendida,7.6,Não
+SOL-00102,2026-09-23 20:34,Pronto-Socorro,CC,Eletiva,2026-09-24 01:49,Atendida,5.2,Sim
+SOL-00103,2026-09-23 22:08,Pronto-Socorro,CM,Eletiva,2026-09-24 02:05,Atendida,4,Sim
+SOL-00104,2026-09-23 05:29,Pronto-Socorro,CM,Eletiva,2026-09-23 11:08,Atendida,5.7,Sim
+SOL-00105,2026-09-23 23:11,Pronto-Socorro,CM,Emergência,2026-09-24 04:33,Atendida,5.4,Sim
+SOL-00106,2026-09-23 07:38,Centro Cirúrgico,UTI,Eletiva,2026-09-23 12:18,Atendida,4.7,Sim
+SOL-00107,2026-09-23 23:48,Pronto-Socorro,INF,Urgência,2026-09-24 10:16,Atendida,10.5,Não
+SOL-00108,2026-09-23 15:23,Regulação (SISREG),ORT,Eletiva,2026-09-24 07:27,Atendida,16.1,Não
+SOL-00109,2026-09-23 02:47,Regulação (SISREG),CM,Eletiva,2026-09-24 07:33,Atendida,28.8,Não
+SOL-00110,2026-09-23 06:19,Pronto-Socorro,ORT,Urgência,2026-09-24 05:10,Atendida,22.9,Não
+SOL-00111,2026-09-23 11:36,Pronto-Socorro,UTIN,Urgência,2026-09-23 14:31,Atendida,2.9,Sim
+SOL-00112,2026-09-23 11:51,Pronto-Socorro,UCI,Urgência,2026-09-23 19:10,Atendida,7.3,Não
+SOL-00113,2026-09-23 17:59,Pronto-Socorro,CM,Urgência,2026-09-24 05:12,Atendida,11.2,Não
+SOL-00114,2026-09-23 02:20,Ambulatório/Eletivo,CM,Eletiva,2026-09-24 20:45,Atendida,42.4,Não
+SOL-00115,2026-09-23 20:04,Pronto-Socorro,CM,Urgência,2026-09-24 12:42,Atendida,16.6,Não
+SOL-00116,2026-09-23 03:45,Pronto-Socorro,UCI,Urgência,2026-09-23 05:26,Atendida,1.7,Sim
+SOL-00117,2026-09-23 20:40,Pronto-Socorro,CM,Urgência,2026-09-23 23:55,Atendida,3.2,Sim
+SOL-00118,2026-09-23 20:13,Pronto-Socorro,CM,Emergência,2026-09-23 22:49,Atendida,2.6,Sim
+SOL-00119,2026-09-23 19:46,Pronto-Socorro,ORT,Urgência,2026-09-24 01:47,Atendida,6,Sim
+SOL-00120,2026-09-23 00:18,Centro Cirúrgico,ONC,Urgência,2026-09-23 04:36,Atendida,4.3,Sim
+SOL-00121,2026-09-24 08:30,Pronto-Socorro,CM,Urgência,2026-09-24 12:30,Atendida,4,Sim
+SOL-00122,2026-09-24 01:26,Regulação (SISREG),CM,Urgência,2026-09-24 08:45,Atendida,7.3,Não
+SOL-00123,2026-09-24 16:34,Centro Cirúrgico,PED,Urgência,2026-09-24 19:11,Atendida,2.6,Sim
+SOL-00124,2026-09-24 20:28,Pronto-Socorro,UTIN,Urgência,,Cancelada,5.1,Não
+SOL-00125,2026-09-24 04:00,Regulação (SISREG),MAT,Urgência,2026-09-24 04:40,Atendida,0.7,Sim
+SOL-00126,2026-09-24 21:37,Pronto-Socorro,CM,Eletiva,2026-09-25 12:12,Atendida,14.6,Não
+SOL-00127,2026-09-24 09:49,Pronto-Socorro,UTI,Urgência,2026-09-24 14:33,Atendida,4.7,Sim
+SOL-00128,2026-09-24 08:49,Regulação (SISREG),CM,Eletiva,2026-09-26 02:52,Atendida,42,Não
+SOL-00129,2026-09-24 20:33,Pronto-Socorro,CM,Urgência,2026-09-25 12:26,Atendida,15.9,Não
+SOL-00130,2026-09-24 05:43,Centro Cirúrgico,UCI,Urgência,2026-09-24 12:14,Atendida,6.5,Não
+SOL-00131,2026-09-24 15:24,Centro Cirúrgico,INF,Emergência,2026-09-24 18:48,Atendida,3.4,Sim
+SOL-00132,2026-09-24 03:14,Pronto-Socorro,CC,Eletiva,2026-09-24 08:44,Atendida,5.5,Sim
+SOL-00133,2026-09-24 14:47,Pronto-Socorro,UCI,Emergência,2026-09-24 21:09,Atendida,6.4,Não
+SOL-00134,2026-09-24 09:47,Pronto-Socorro,CM,Emergência,2026-09-24 13:43,Atendida,3.9,Sim
+SOL-00135,2026-09-24 14:48,Pronto-Socorro,CM,Eletiva,2026-09-25 11:38,Atendida,20.8,Não
+SOL-00136,2026-09-24 07:12,Pronto-Socorro,UTI,Emergência,2026-09-24 13:10,Atendida,6,Sim
+SOL-00137,2026-09-24 20:13,Pronto-Socorro,UTI,Eletiva,2026-09-25 05:56,Atendida,9.7,Não
+SOL-00138,2026-09-24 18:12,Pronto-Socorro,CM,Urgência,2026-09-25 04:56,Atendida,10.7,Não
+SOL-00139,2026-09-24 08:15,Ambulatório/Eletivo,MAT,Eletiva,2026-09-24 10:23,Atendida,2.1,Sim
+SOL-00140,2026-09-24 16:59,Pronto-Socorro,PED,Urgência,2026-09-24 19:19,Atendida,2.3,Sim
+SOL-00141,2026-09-24 20:49,Pronto-Socorro,CM,Urgência,2026-09-24 22:02,Atendida,1.2,Sim
+SOL-00142,2026-09-24 01:11,Pronto-Socorro,PED,Urgência,2026-09-24 02:29,Atendida,1.3,Sim
+SOL-00143,2026-09-24 14:18,Centro Cirúrgico,CC,Urgência,2026-09-24 15:01,Atendida,0.7,Sim
+SOL-00144,2026-09-24 22:02,Pronto-Socorro,UTI,Urgência,,Cancelada,9.5,Não
+SOL-00145,2026-09-24 12:52,Pronto-Socorro,CM,Urgência,2026-09-24 23:11,Atendida,10.3,Não
+SOL-00146,2026-09-24 17:22,Pronto-Socorro,CM,Emergência,2026-09-24 20:59,Atendida,3.6,Sim
+SOL-00147,2026-09-24 23:26,Ambulatório/Eletivo,CM,Eletiva,2026-09-25 16:59,Atendida,17.6,Não
+SOL-00148,2026-09-24 10:08,Pronto-Socorro,UCI,Urgência,2026-09-24 16:22,Atendida,6.2,Não
+SOL-00149,2026-09-24 21:38,Pronto-Socorro,CM,Urgência,2026-09-25 01:49,Atendida,4.2,Sim
+SOL-00150,2026-09-24 15:57,Pronto-Socorro,UCI,Urgência,2026-09-25 10:54,Atendida,18.9,Não
+SOL-00151,2026-09-24 10:21,Pronto-Socorro,ORT,Urgência,2026-09-25 05:52,Atendida,19.5,Não
+SOL-00152,2026-09-24 14:39,Centro Cirúrgico,CC,Emergência,2026-09-24 17:41,Atendida,3,Sim
+SOL-00153,2026-09-24 15:00,Ambulatório/Eletivo,UTI,Eletiva,2026-09-24 23:51,Atendida,8.8,Não
+SOL-00154,2026-09-24 21:29,Regulação (SISREG),CM,Urgência,2026-09-25 06:49,Atendida,9.3,Não
+SOL-00155,2026-09-24 02:03,Pronto-Socorro,CM,Eletiva,,Cancelada,38.2,Não
+SOL-00156,2026-09-24 09:29,Regulação (SISREG),ORT,Eletiva,2026-09-24 13:24,Atendida,3.9,Sim
+SOL-00157,2026-09-24 07:11,Pronto-Socorro,ONC,Urgência,2026-09-24 09:13,Atendida,2,Sim
+SOL-00158,2026-09-24 09:54,Regulação (SISREG),CC,Urgência,2026-09-24 14:37,Atendida,4.7,Sim
+SOL-00159,2026-09-24 08:43,Ambulatório/Eletivo,CM,Eletiva,2026-09-25 04:25,Atendida,19.7,Não
+SOL-00160,2026-09-25 22:06,Centro Cirúrgico,CM,Urgência,2026-09-26 23:30,Atendida,25.4,Não
+SOL-00161,2026-09-25 03:05,Pronto-Socorro,CM,Eletiva,2026-09-25 09:03,Atendida,6,Sim
+SOL-00162,2026-09-25 16:39,Pronto-Socorro,CM,Urgência,2026-09-25 19:20,Atendida,2.7,Sim
+SOL-00163,2026-09-25 21:59,Regulação (SISREG),PED,Urgência,2026-09-26 01:50,Atendida,3.9,Sim
+SOL-00164,2026-09-25 09:32,Centro Cirúrgico,CM,Urgência,2026-09-25 19:04,Atendida,9.5,Não
+SOL-00165,2026-09-25 03:13,Centro Cirúrgico,CM,Urgência,2026-09-25 08:43,Atendida,5.5,Sim
+SOL-00166,2026-09-25 01:33,Centro Cirúrgico,PED,Urgência,2026-09-25 04:34,Atendida,3,Sim
+SOL-00167,2026-09-25 23:37,Pronto-Socorro,PED,Urgência,,Cancelada,9.6,Não
+SOL-00168,2026-09-25 07:15,Pronto-Socorro,UCI,Urgência,2026-09-25 14:10,Atendida,6.9,Não
+SOL-00169,2026-09-25 20:53,Centro Cirúrgico,MAT,Urgência,2026-09-25 23:12,Atendida,2.3,Sim
+SOL-00170,2026-09-25 22:38,Pronto-Socorro,PED,Urgência,,Cancelada,1.1,Não
+SOL-00171,2026-09-25 06:59,Pronto-Socorro,PED,Emergência,2026-09-25 07:54,Atendida,0.9,Sim
+SOL-00172,2026-09-25 23:46,Pronto-Socorro,MAT,Urgência,2026-09-26 10:34,Atendida,10.8,Não
+SOL-00173,2026-09-25 22:17,Regulação (SISREG),UCI,Urgência,2026-09-26 02:15,Atendida,4,Sim
+SOL-00174,2026-09-25 01:58,Regulação (SISREG),UTIN,Urgência,2026-09-25 07:37,Atendida,5.7,Sim
+SOL-00175,2026-09-25 11:37,Regulação (SISREG),CM,Eletiva,2026-09-26 01:34,Atendida,13.9,Não
+SOL-00176,2026-09-25 08:10,Centro Cirúrgico,INF,Eletiva,2026-09-25 22:21,Atendida,14.2,Não
+SOL-00177,2026-09-25 12:05,Pronto-Socorro,UTI,Urgência,2026-09-25 16:42,Atendida,4.6,Sim
+SOL-00178,2026-09-25 17:40,Pronto-Socorro,CM,Urgência,2026-09-26 04:31,Atendida,10.8,Não
+SOL-00179,2026-09-25 13:05,Pronto-Socorro,CM,Urgência,2026-09-26 05:46,Atendida,16.7,Não
+SOL-00180,2026-09-25 11:01,Centro Cirúrgico,CC,Urgência,2026-09-25 18:11,Atendida,7.2,Não
+SOL-00181,2026-09-25 10:19,Pronto-Socorro,ORT,Urgência,2026-09-26 02:08,Atendida,15.8,Não
+SOL-00182,2026-09-25 01:00,Ambulatório/Eletivo,CC,Eletiva,2026-09-25 07:05,Atendida,6.1,Não
+SOL-00183,2026-09-25 02:18,Pronto-Socorro,ORT,Urgência,2026-09-25 06:36,Atendida,4.3,Sim
+SOL-00184,2026-09-25 02:04,Ambulatório/Eletivo,UTI,Eletiva,,Cancelada,13,Não
+SOL-00185,2026-09-25 03:41,Ambulatório/Eletivo,CC,Eletiva,2026-09-26 21:48,Atendida,42.1,Não
+SOL-00186,2026-09-25 12:09,Pronto-Socorro,CM,Emergência,2026-09-25 15:12,Atendida,3.1,Sim
+SOL-00187,2026-09-25 03:14,Pronto-Socorro,ORT,Emergência,2026-09-25 06:59,Atendida,3.8,Sim
+SOL-00188,2026-09-25 20:09,Regulação (SISREG),PED,Urgência,2026-09-26 01:30,Atendida,5.3,Sim
+SOL-00189,2026-09-25 19:20,Pronto-Socorro,CC,Eletiva,2026-09-25 22:25,Atendida,3.1,Sim
+SOL-00190,2026-09-25 17:08,Ambulatório/Eletivo,CM,Eletiva,2026-09-26 02:37,Atendida,9.5,Não
+SOL-00191,2026-09-25 10:59,Centro Cirúrgico,CM,Eletiva,2026-09-26 00:31,Atendida,13.5,Não
+SOL-00192,2026-09-25 11:00,Regulação (SISREG),CM,Eletiva,2026-09-25 21:12,Atendida,10.2,Não
+SOL-00193,2026-09-26 02:24,Ambulatório/Eletivo,CM,Eletiva,,Cancelada,11.4,Não
+SOL-00194,2026-09-26 22:59,Pronto-Socorro,CM,Emergência,,Cancelada,6.2,Não
+SOL-00195,2026-09-26 17:39,Regulação (SISREG),PED,Emergência,2026-09-26 20:24,Atendida,2.8,Sim
+SOL-00196,2026-09-26 17:15,Regulação (SISREG),CC,Urgência,2026-09-26 20:52,Atendida,3.6,Sim
+SOL-00197,2026-09-26 03:45,Ambulatório/Eletivo,ORT,Eletiva,2026-09-26 18:50,Atendida,15.1,Não
+SOL-00198,2026-09-26 23:41,Pronto-Socorro,ORT,Urgência,2026-09-27 03:29,Atendida,3.8,Sim
+SOL-00199,2026-09-26 18:40,Ambulatório/Eletivo,CC,Eletiva,2026-09-26 20:06,Atendida,1.4,Sim
+SOL-00200,2026-09-26 20:30,Pronto-Socorro,CM,Urgência,,Cancelada,44,Não
+SOL-00201,2026-09-26 14:25,Pronto-Socorro,UTIN,Eletiva,2026-09-26 19:54,Atendida,5.5,Sim
+SOL-00202,2026-09-26 03:27,Pronto-Socorro,CM,Eletiva,,Cancelada,20.6,Não
+SOL-00203,2026-09-26 03:05,Regulação (SISREG),UTI,Urgência,2026-09-26 16:37,Atendida,13.5,Não
+SOL-00204,2026-09-26 18:08,Pronto-Socorro,MAT,Emergência,2026-09-26 20:01,Atendida,1.9,Sim
+SOL-00205,2026-09-26 07:59,Pronto-Socorro,UCI,Urgência,2026-09-26 10:49,Atendida,2.8,Sim
+SOL-00206,2026-09-26 22:08,Pronto-Socorro,UTI,Urgência,2026-09-27 01:59,Atendida,3.8,Sim
+SOL-00207,2026-09-26 19:29,Pronto-Socorro,MAT,Urgência,2026-09-26 22:50,Atendida,3.4,Sim
+SOL-00208,2026-09-26 22:49,Pronto-Socorro,ORT,Eletiva,2026-09-27 04:12,Atendida,5.4,Sim
+SOL-00209,2026-09-26 23:16,Centro Cirúrgico,ORT,Eletiva,2026-09-27 20:48,Atendida,21.5,Não
+SOL-00210,2026-09-26 12:43,Ambulatório/Eletivo,ONC,Eletiva,2026-09-27 03:42,Atendida,15,Não
+SOL-00211,2026-09-26 10:06,Pronto-Socorro,CM,Urgência,2026-09-26 17:29,Atendida,7.4,Não
+SOL-00212,2026-09-26 09:01,Pronto-Socorro,CM,Urgência,2026-09-26 21:30,Atendida,12.5,Não
+SOL-00213,2026-09-26 16:54,Pronto-Socorro,CC,Urgência,2026-09-26 21:24,Atendida,4.5,Sim
+SOL-00214,2026-09-26 06:10,Pronto-Socorro,UCI,Urgência,2026-09-26 14:53,Atendida,8.7,Não
+SOL-00215,2026-09-26 04:59,Centro Cirúrgico,ONC,Emergência,2026-09-26 08:07,Atendida,3.1,Sim
+SOL-00216,2026-09-27 14:29,Pronto-Socorro,UTIN,Urgência,2026-09-27 18:07,Atendida,3.6,Sim
+SOL-00217,2026-09-27 16:53,Regulação (SISREG),MAT,Urgência,,Cancelada,9.6,Não
+SOL-00218,2026-09-27 10:34,Pronto-Socorro,PED,Urgência,2026-09-27 14:31,Atendida,3.9,Sim
+SOL-00219,2026-09-27 09:09,Pronto-Socorro,ORT,Urgência,2026-09-27 12:49,Atendida,3.7,Sim
+SOL-00220,2026-09-27 03:48,Centro Cirúrgico,CM,Emergência,2026-09-27 08:12,Atendida,4.4,Sim
+SOL-00221,2026-09-27 03:38,Pronto-Socorro,CM,Emergência,2026-09-27 11:01,Atendida,7.4,Não
+SOL-00222,2026-09-27 19:59,Regulação (SISREG),MAT,Eletiva,2026-09-28 02:57,Atendida,7,Não
+SOL-00223,2026-09-27 00:25,Regulação (SISREG),CC,Eletiva,2026-09-27 06:33,Atendida,6.1,Não
+SOL-00224,2026-09-27 17:27,Pronto-Socorro,UTI,Emergência,2026-09-27 18:42,Atendida,1.2,Sim
+SOL-00225,2026-09-27 16:35,Pronto-Socorro,CC,Eletiva,2026-09-27 23:30,Atendida,6.9,Não
+SOL-00226,2026-09-27 04:40,Pronto-Socorro,CM,Urgência,2026-09-27 11:36,Atendida,6.9,Não
+SOL-00227,2026-09-27 22:38,Pronto-Socorro,INF,Urgência,2026-09-28 03:40,Atendida,5,Sim
+SOL-00228,2026-09-27 10:34,Ambulatório/Eletivo,CM,Eletiva,2026-09-28 00:41,Atendida,14.1,Não
+SOL-00229,2026-09-27 05:49,Pronto-Socorro,MAT,Eletiva,2026-09-27 13:09,Atendida,7.3,Não
+SOL-00230,2026-09-27 04:43,Centro Cirúrgico,UTIN,Urgência,2026-09-27 10:15,Atendida,5.5,Sim
+SOL-00231,2026-09-27 19:28,Centro Cirúrgico,ORT,Emergência,2026-09-27 20:14,Atendida,0.8,Sim
+SOL-00232,2026-09-27 10:26,Ambulatório/Eletivo,CC,Eletiva,2026-09-27 14:41,Atendida,4.2,Sim
+SOL-00233,2026-09-27 19:52,Ambulatório/Eletivo,PED,Eletiva,2026-09-28 02:42,Atendida,6.8,Não
+SOL-00234,2026-09-27 05:55,Pronto-Socorro,MAT,Urgência,,Cancelada,6,Não
+SOL-00235,2026-09-27 01:56,Pronto-Socorro,INF,Urgência,2026-09-27 11:15,Atendida,9.3,Não
+SOL-00236,2026-09-27 10:22,Pronto-Socorro,UCI,Eletiva,2026-09-28 03:06,Atendida,16.7,Não
+SOL-00237,2026-09-27 15:43,Pronto-Socorro,CM,Eletiva,2026-09-28 01:15,Atendida,9.5,Não
+SOL-00238,2026-09-27 03:56,Pronto-Socorro,CC,Urgência,2026-09-27 07:51,Atendida,3.9,Sim
+SOL-00239,2026-09-27 19:29,Pronto-Socorro,CM,Eletiva,2026-09-28 02:36,Atendida,7.1,Não
+SOL-00240,2026-09-27 06:23,Pronto-Socorro,CC,Emergência,2026-09-27 07:27,Atendida,1.1,Sim
+SOL-00241,2026-09-27 18:31,Pronto-Socorro,UTI,Emergência,2026-09-27 20:01,Atendida,1.5,Sim
+SOL-00242,2026-09-27 05:46,Pronto-Socorro,CM,Emergência,2026-09-27 07:26,Atendida,1.7,Sim
+SOL-00243,2026-09-27 21:45,Regulação (SISREG),CM,Emergência,2026-09-27 22:50,Atendida,1.1,Sim
+SOL-00244,2026-09-27 22:14,Pronto-Socorro,CM,Urgência,2026-09-29 15:15,Atendida,41,Não
+SOL-00245,2026-09-28 07:18,Regulação (SISREG),ORT,Urgência,2026-09-28 23:49,Atendida,16.5,Não
+SOL-00246,2026-09-28 04:48,Regulação (SISREG),CM,Emergência,2026-09-28 14:17,Atendida,9.5,Não
+SOL-00247,2026-09-28 00:00,Pronto-Socorro,CM,Urgência,2026-09-28 11:11,Atendida,11.2,Não
+SOL-00248,2026-09-28 16:12,Regulação (SISREG),UCI,Eletiva,2026-09-29 00:45,Atendida,8.6,Não
+SOL-00249,2026-09-28 12:44,Pronto-Socorro,ONC,Eletiva,2026-09-28 22:09,Atendida,9.4,Não
+SOL-00250,2026-09-28 02:49,Pronto-Socorro,CC,Urgência,2026-09-28 04:30,Atendida,1.7,Sim
+SOL-00251,2026-09-28 07:39,Centro Cirúrgico,ORT,Urgência,2026-09-28 11:03,Atendida,3.4,Sim
+SOL-00252,2026-09-28 10:22,Pronto-Socorro,ORT,Emergência,2026-09-28 16:12,Atendida,5.8,Sim
+SOL-00253,2026-09-28 22:43,Pronto-Socorro,CM,Urgência,2026-09-29 09:16,Atendida,10.6,Não
+SOL-00254,2026-09-28 22:22,Pronto-Socorro,CM,Emergência,2026-09-29 00:53,Atendida,2.5,Sim
+SOL-00255,2026-09-28 07:34,Pronto-Socorro,CM,Eletiva,2026-09-28 21:25,Atendida,13.9,Não
+SOL-00256,2026-09-28 13:40,Pronto-Socorro,UTI,Urgência,2026-09-29 00:44,Atendida,11.1,Não
+SOL-00257,2026-09-28 17:45,Pronto-Socorro,UCI,Emergência,2026-09-28 18:42,Atendida,0.9,Sim
+SOL-00258,2026-09-28 00:43,Pronto-Socorro,CM,Urgência,2026-09-28 16:39,Atendida,15.9,Não
+SOL-00259,2026-09-28 04:40,Pronto-Socorro,UCI,Urgência,2026-09-28 09:22,Atendida,4.7,Sim
+SOL-00260,2026-09-28 15:00,Pronto-Socorro,CM,Emergência,2026-09-28 21:28,Atendida,6.5,Não
+SOL-00261,2026-09-28 02:07,Pronto-Socorro,CM,Urgência,2026-09-29 01:50,Atendida,23.7,Não
+SOL-00262,2026-09-28 20:03,Centro Cirúrgico,PED,Urgência,2026-09-28 23:50,Atendida,3.8,Sim
+SOL-00263,2026-09-28 00:58,Pronto-Socorro,PED,Urgência,2026-09-28 06:17,Atendida,5.3,Sim
+SOL-00264,2026-09-28 17:27,Pronto-Socorro,CC,Urgência,2026-09-29 02:05,Atendida,8.6,Não
+SOL-00265,2026-09-28 07:34,Pronto-Socorro,MAT,Urgência,2026-09-28 18:16,Atendida,10.7,Não
+SOL-00266,2026-09-28 08:49,Pronto-Socorro,CM,Urgência,2026-09-28 16:48,Atendida,8,Não
+SOL-00267,2026-09-28 17:04,Pronto-Socorro,CM,Urgência,2026-09-29 02:16,Atendida,9.2,Não
+SOL-00268,2026-09-28 07:49,Pronto-Socorro,CC,Urgência,2026-09-28 12:36,Atendida,4.8,Sim
+SOL-00269,2026-09-28 22:50,Pronto-Socorro,UCI,Urgência,2026-09-29 05:07,Atendida,6.3,Não
+SOL-00270,2026-09-28 04:07,Regulação (SISREG),CC,Urgência,2026-09-28 11:34,Atendida,7.4,Não
+SOL-00271,2026-09-28 02:27,Pronto-Socorro,CM,Emergência,2026-09-28 07:59,Atendida,5.5,Sim
+SOL-00272,2026-09-28 00:08,Pronto-Socorro,CC,Eletiva,2026-09-28 15:15,Atendida,15.1,Não
+SOL-00273,2026-09-28 13:30,Pronto-Socorro,ORT,Urgência,2026-09-29 01:21,Atendida,11.9,Não
+SOL-00274,2026-09-28 04:22,Pronto-Socorro,ORT,Urgência,2026-09-28 12:37,Atendida,8.3,Não
+SOL-00275,2026-09-28 06:24,Regulação (SISREG),CM,Urgência,2026-09-28 11:23,Atendida,5,Sim
+SOL-00276,2026-09-28 16:21,Centro Cirúrgico,MAT,Eletiva,2026-09-29 01:27,Atendida,9.1,Não
+SOL-00277,2026-09-28 12:33,Pronto-Socorro,UTIN,Urgência,2026-09-28 17:55,Atendida,5.4,Sim
+SOL-00278,2026-09-28 05:21,Pronto-Socorro,UTI,Urgência,2026-09-28 21:43,Atendida,16.4,Não
+SOL-00279,2026-09-28 06:13,Regulação (SISREG),CM,Eletiva,2026-09-30 06:29,Atendida,48.3,Não
+SOL-00280,2026-09-29 00:50,Pronto-Socorro,ORT,Eletiva,2026-09-29 10:36,Atendida,9.8,Não
+SOL-00281,2026-09-29 17:12,Ambulatório/Eletivo,CM,Eletiva,2026-09-29 20:03,Atendida,2.8,Sim
+SOL-00282,2026-09-29 22:45,Pronto-Socorro,MAT,Urgência,2026-09-30 06:18,Atendida,7.5,Não
+SOL-00283,2026-09-29 04:01,Pronto-Socorro,ORT,Emergência,2026-09-29 06:14,Atendida,2.2,Sim
+SOL-00284,2026-09-29 18:58,Pronto-Socorro,CM,Urgência,2026-09-30 03:27,Atendida,8.5,Não
+SOL-00285,2026-09-29 20:47,Pronto-Socorro,UTI,Eletiva,2026-10-01 17:38,Atendida,44.9,Não
+SOL-00286,2026-09-29 19:46,Pronto-Socorro,PED,Eletiva,2026-09-30 00:05,Atendida,4.3,Sim
+SOL-00287,2026-09-29 20:55,Pronto-Socorro,CM,Eletiva,2026-09-30 17:52,Atendida,21,Não
+SOL-00288,2026-09-29 04:33,Pronto-Socorro,UTI,Emergência,2026-09-29 07:06,Atendida,2.5,Sim
+SOL-00289,2026-09-29 16:38,Pronto-Socorro,CM,Urgência,2026-09-29 23:34,Atendida,6.9,Não
+SOL-00290,2026-09-29 03:49,Ambulatório/Eletivo,MAT,Eletiva,2026-09-29 13:19,Atendida,9.5,Não
+SOL-00291,2026-09-29 16:00,Pronto-Socorro,CM,Urgência,2026-09-30 02:45,Atendida,10.8,Não
+SOL-00292,2026-09-29 21:01,Pronto-Socorro,ORT,Urgência,2026-09-30 03:40,Atendida,6.6,Não
+SOL-00293,2026-09-29 23:02,Ambulatório/Eletivo,CM,Eletiva,2026-10-02 06:16,Atendida,55.2,Não
+SOL-00294,2026-09-29 08:30,Regulação (SISREG),CM,Urgência,2026-09-29 12:42,Atendida,4.2,Sim
+SOL-00295,2026-09-29 14:39,Centro Cirúrgico,UTI,Emergência,2026-09-29 16:46,Atendida,2.1,Sim
+SOL-00296,2026-09-29 03:52,Pronto-Socorro,CM,Urgência,2026-09-29 17:19,Atendida,13.5,Não
+SOL-00297,2026-09-29 08:07,Regulação (SISREG),CC,Eletiva,2026-09-29 11:24,Atendida,3.3,Sim
+SOL-00298,2026-09-29 23:14,Centro Cirúrgico,CM,Emergência,2026-09-30 04:45,Atendida,5.5,Sim
+SOL-00299,2026-09-29 06:05,Pronto-Socorro,ORT,Eletiva,2026-09-29 20:29,Atendida,14.4,Não
+SOL-00300,2026-09-29 04:06,Pronto-Socorro,PED,Eletiva,2026-09-29 11:33,Atendida,7.5,Não
+SOL-00301,2026-09-29 23:08,Pronto-Socorro,UTI,Eletiva,2026-10-01 13:10,Atendida,38,Não
+SOL-00302,2026-09-29 09:06,Pronto-Socorro,PED,Urgência,2026-09-29 15:22,Atendida,6.3,Não
+SOL-00303,2026-09-29 20:24,Regulação (SISREG),CM,Emergência,2026-09-29 21:31,Atendida,1.1,Sim
+SOL-00304,2026-09-29 11:26,Ambulatório/Eletivo,CM,Eletiva,2026-10-02 01:33,Atendida,62.1,Não
+SOL-00305,2026-09-29 00:27,Pronto-Socorro,CM,Urgência,2026-09-29 08:21,Atendida,7.9,Não
+SOL-00306,2026-09-29 16:11,Regulação (SISREG),MAT,Eletiva,2026-09-30 11:48,Atendida,19.6,Não
+SOL-00307,2026-09-29 01:39,Pronto-Socorro,ORT,Emergência,2026-09-29 02:13,Atendida,0.6,Sim
+SOL-00308,2026-09-30 10:09,Centro Cirúrgico,UTIN,Emergência,2026-09-30 11:58,Atendida,1.8,Sim
+SOL-00309,2026-09-30 19:35,Centro Cirúrgico,CC,Urgência,2026-09-30 21:51,Atendida,2.3,Sim
+SOL-00310,2026-09-30 14:55,Pronto-Socorro,CM,Urgência,2026-09-30 22:36,Atendida,7.7,Não
+SOL-00311,2026-09-30 06:22,Centro Cirúrgico,ONC,Urgência,,Cancelada,6.3,Não
+SOL-00312,2026-09-30 18:23,Regulação (SISREG),MAT,Urgência,2026-09-30 20:26,Atendida,2.1,Sim
+SOL-00313,2026-09-30 03:19,Regulação (SISREG),INF,Eletiva,2026-09-30 14:27,Atendida,11.1,Não
+SOL-00314,2026-09-30 07:00,Pronto-Socorro,MAT,Eletiva,2026-09-30 10:01,Atendida,3,Sim
+SOL-00315,2026-09-30 00:04,Pronto-Socorro,CM,Urgência,2026-09-30 17:56,Atendida,17.9,Não
+SOL-00316,2026-09-30 20:47,Pronto-Socorro,ONC,Urgência,2026-10-01 14:12,Atendida,17.4,Não
+SOL-00317,2026-09-30 19:24,Centro Cirúrgico,CC,Urgência,2026-09-30 21:11,Atendida,1.8,Sim
+SOL-00318,2026-09-30 05:28,Pronto-Socorro,UTIN,Urgência,2026-09-30 08:21,Atendida,2.9,Sim
+SOL-00319,2026-09-30 06:02,Centro Cirúrgico,CM,Urgência,2026-09-30 20:20,Atendida,14.3,Não
+SOL-00320,2026-09-30 23:04,Pronto-Socorro,CM,Urgência,2026-10-01 13:29,Atendida,14.4,Não
+SOL-00321,2026-09-30 03:25,Pronto-Socorro,MAT,Urgência,2026-09-30 08:17,Atendida,4.9,Sim
+SOL-00322,2026-09-30 19:56,Pronto-Socorro,MAT,Urgência,2026-09-30 20:40,Atendida,0.7,Sim
+SOL-00323,2026-09-30 00:13,Pronto-Socorro,CC,Urgência,2026-09-30 01:11,Atendida,1,Sim
+SOL-00324,2026-09-30 10:24,Pronto-Socorro,MAT,Urgência,2026-09-30 13:46,Atendida,3.4,Sim
+SOL-00325,2026-09-30 18:10,Pronto-Socorro,ORT,Eletiva,,Cancelada,8.6,Não
+SOL-00326,2026-09-30 07:04,Regulação (SISREG),CM,Emergência,2026-09-30 09:20,Atendida,2.3,Sim
+SOL-00327,2026-09-30 05:42,Pronto-Socorro,CM,Urgência,2026-09-30 15:20,Atendida,9.6,Não
+SOL-00328,2026-09-30 01:35,Pronto-Socorro,UCI,Eletiva,2026-10-01 09:38,Atendida,32.1,Não
+SOL-00329,2026-09-30 16:01,Ambulatório/Eletivo,CC,Eletiva,2026-09-30 21:08,Atendida,5.1,Sim
+SOL-00330,2026-09-30 20:25,Centro Cirúrgico,UTI,Eletiva,2026-10-01 10:44,Atendida,14.3,Não
+SOL-00331,2026-09-30 03:46,Pronto-Socorro,CC,Eletiva,2026-09-30 05:25,Atendida,1.7,Sim
+SOL-00332,2026-09-30 21:42,Pronto-Socorro,UCI,Eletiva,2026-09-30 23:48,Atendida,2.1,Sim
+SOL-00333,2026-09-30 06:43,Regulação (SISREG),CM,Emergência,2026-09-30 08:18,Atendida,1.6,Sim
+SOL-00334,2026-09-30 08:56,Regulação (SISREG),PED,Urgência,2026-09-30 14:01,Atendida,5.1,Sim
+SOL-00335,2026-09-30 03:02,Regulação (SISREG),CM,Urgência,2026-09-30 07:04,Atendida,4,Sim
+SOL-00336,2026-09-30 08:44,Pronto-Socorro,UTI,Urgência,2026-09-30 14:41,Atendida,5.9,Sim
+SOL-00337,2026-10-01 10:02,Centro Cirúrgico,CC,Eletiva,2026-10-01 16:41,Atendida,6.6,Não
+SOL-00338,2026-10-01 17:02,Regulação (SISREG),CC,Urgência,2026-10-01 23:19,Atendida,6.3,Não
+SOL-00339,2026-10-01 07:40,Regulação (SISREG),CM,Urgência,,Cancelada,14.2,Não
+SOL-00340,2026-10-01 22:46,Pronto-Socorro,PED,Urgência,2026-10-02 03:05,Atendida,4.3,Sim
+SOL-00341,2026-10-01 14:02,Pronto-Socorro,CC,Urgência,2026-10-01 18:00,Atendida,4,Sim
+SOL-00342,2026-10-01 10:40,Regulação (SISREG),CM,Urgência,2026-10-01 16:47,Atendida,6.1,Não
+SOL-00343,2026-10-01 00:36,Ambulatório/Eletivo,CM,Eletiva,2026-10-04 23:05,Atendida,94.5,Não
+SOL-00344,2026-10-01 17:58,Ambulatório/Eletivo,UTI,Eletiva,,Cancelada,64.5,Não
+SOL-00345,2026-10-01 20:41,Pronto-Socorro,CC,Eletiva,2026-10-02 08:43,Atendida,12,Não
+SOL-00346,2026-10-01 19:27,Pronto-Socorro,CM,Eletiva,2026-10-02 06:22,Atendida,10.9,Não
+SOL-00347,2026-10-01 07:42,Pronto-Socorro,CC,Urgência,2026-10-01 14:49,Atendida,7.1,Não
+SOL-00348,2026-10-01 21:10,Pronto-Socorro,CC,Eletiva,2026-10-02 07:41,Atendida,10.5,Não
+SOL-00349,2026-10-01 11:18,Pronto-Socorro,UTI,Eletiva,2026-10-01 20:35,Atendida,9.3,Não
+SOL-00350,2026-10-01 00:29,Regulação (SISREG),UTI,Emergência,2026-10-01 03:31,Atendida,3,Sim
+SOL-00351,2026-10-01 13:53,Pronto-Socorro,UTI,Eletiva,2026-10-01 23:01,Atendida,9.1,Não
+SOL-00352,2026-10-01 06:26,Pronto-Socorro,CC,Urgência,2026-10-01 08:00,Atendida,1.6,Sim
+SOL-00353,2026-10-01 15:38,Ambulatório/Eletivo,ORT,Eletiva,2026-10-02 14:44,Atendida,23.1,Não
+SOL-00354,2026-10-01 14:09,Ambulatório/Eletivo,CC,Eletiva,2026-10-01 18:00,Atendida,3.9,Sim
+SOL-00355,2026-10-01 18:04,Pronto-Socorro,UTI,Eletiva,2026-10-01 23:17,Atendida,5.2,Sim
+SOL-00356,2026-10-01 06:07,Centro Cirúrgico,UTI,Urgência,2026-10-02 03:59,Atendida,21.9,Não
+SOL-00357,2026-10-01 04:55,Pronto-Socorro,UTI,Urgência,2026-10-01 16:55,Atendida,12,Não
+SOL-00358,2026-10-01 13:54,Pronto-Socorro,CC,Urgência,2026-10-01 23:00,Atendida,9.1,Não
+SOL-00359,2026-10-01 01:03,Centro Cirúrgico,CM,Urgência,2026-10-01 03:59,Atendida,2.9,Sim
+SOL-00360,2026-10-01 21:11,Pronto-Socorro,PED,Emergência,2026-10-01 22:04,Atendida,0.9,Sim
+SOL-00361,2026-10-01 07:52,Pronto-Socorro,CM,Urgência,2026-10-01 10:56,Atendida,3.1,Sim
+SOL-00362,2026-10-01 02:19,Pronto-Socorro,CC,Emergência,,Cancelada,6.5,Não
+SOL-00363,2026-10-01 07:00,Centro Cirúrgico,CM,Emergência,2026-10-01 11:16,Atendida,4.3,Sim
+SOL-00364,2026-10-01 22:27,Ambulatório/Eletivo,UCI,Eletiva,2026-10-02 11:10,Atendida,12.7,Não
+SOL-00365,2026-10-01 20:50,Pronto-Socorro,PED,Urgência,2026-10-02 03:04,Atendida,6.2,Não
+SOL-00366,2026-10-01 11:50,Pronto-Socorro,UTIN,Urgência,2026-10-01 14:17,Atendida,2.4,Sim
+SOL-00367,2026-10-01 23:13,Pronto-Socorro,ONC,Urgência,2026-10-02 04:26,Atendida,5.2,Sim
+SOL-00368,2026-10-01 00:51,Pronto-Socorro,UTI,Urgência,2026-10-01 20:23,Atendida,19.5,Não
+SOL-00369,2026-10-01 00:19,Pronto-Socorro,CC,Urgência,,Cancelada,4.5,Não
+SOL-00370,2026-10-01 02:59,Pronto-Socorro,CM,Urgência,2026-10-01 10:58,Atendida,8,Não
+SOL-00371,2026-10-01 20:08,Pronto-Socorro,UCI,Urgência,2026-10-02 03:21,Atendida,7.2,Não
+SOL-00372,2026-10-01 03:42,Ambulatório/Eletivo,CC,Eletiva,2026-10-01 07:15,Atendida,3.5,Sim
+SOL-00373,2026-10-01 05:54,Pronto-Socorro,CC,Urgência,2026-10-01 15:00,Atendida,9.1,Não
+SOL-00374,2026-10-01 01:47,Pronto-Socorro,CM,Eletiva,,Cancelada,30.8,Não
+SOL-00375,2026-10-01 13:49,Pronto-Socorro,UTIN,Urgência,2026-10-01 14:28,Atendida,0.6,Sim
+SOL-00376,2026-10-01 00:47,Regulação (SISREG),ONC,Eletiva,2026-10-01 08:07,Atendida,7.3,Não
+SOL-00377,2026-10-02 09:59,Pronto-Socorro,CC,Urgência,2026-10-02 19:02,Atendida,9,Não
+SOL-00378,2026-10-02 09:16,Centro Cirúrgico,UCI,Eletiva,2026-10-03 12:56,Atendida,27.7,Não
+SOL-00379,2026-10-02 21:48,Pronto-Socorro,CM,Urgência,2026-10-03 01:47,Atendida,4,Sim
+SOL-00380,2026-10-02 06:30,Pronto-Socorro,CM,Urgência,2026-10-02 13:09,Atendida,6.7,Não
+SOL-00381,2026-10-02 07:23,Centro Cirúrgico,ORT,Emergência,2026-10-02 09:24,Atendida,2,Sim
+SOL-00382,2026-10-02 13:50,Pronto-Socorro,CC,Urgência,2026-10-02 16:24,Atendida,2.6,Sim
+SOL-00383,2026-10-02 00:20,Pronto-Socorro,CM,Urgência,2026-10-02 10:35,Atendida,10.3,Não
+SOL-00384,2026-10-02 10:24,Pronto-Socorro,CM,Urgência,2026-10-02 16:51,Atendida,6.4,Não
+SOL-00385,2026-10-02 11:41,Pronto-Socorro,UTI,Urgência,2026-10-02 14:13,Atendida,2.5,Sim
+SOL-00386,2026-10-02 01:26,Centro Cirúrgico,CC,Emergência,2026-10-02 04:11,Atendida,2.8,Sim
+SOL-00387,2026-10-02 23:33,Pronto-Socorro,CM,Eletiva,2026-10-03 21:47,Atendida,22.2,Não
+SOL-00388,2026-10-02 13:02,Pronto-Socorro,CM,Eletiva,2026-10-02 17:13,Atendida,4.2,Sim
+SOL-00389,2026-10-02 04:54,Pronto-Socorro,PED,Urgência,2026-10-02 08:16,Atendida,3.4,Sim
+SOL-00390,2026-10-02 01:42,Pronto-Socorro,UCI,Urgência,,Cancelada,14.9,Não
+SOL-00391,2026-10-02 16:36,Pronto-Socorro,CM,Urgência,2026-10-03 00:12,Atendida,7.6,Não
+SOL-00392,2026-10-02 15:33,Pronto-Socorro,CM,Eletiva,2026-10-03 12:27,Atendida,20.9,Não
+SOL-00393,2026-10-02 20:24,Centro Cirúrgico,UTI,Urgência,2026-10-03 02:05,Atendida,5.7,Sim
+SOL-00394,2026-10-02 14:59,Regulação (SISREG),CM,Urgência,2026-10-03 09:18,Atendida,18.3,Não
+SOL-00395,2026-10-02 17:43,Pronto-Socorro,UTI,Eletiva,2026-10-03 18:19,Atendida,24.6,Não
+SOL-00396,2026-10-02 07:06,Pronto-Socorro,CC,Urgência,2026-10-02 12:21,Atendida,5.3,Sim
+SOL-00397,2026-10-02 13:18,Pronto-Socorro,UTI,Eletiva,,Cancelada,16.1,Não
+SOL-00398,2026-10-02 12:34,Regulação (SISREG),ORT,Urgência,2026-10-02 14:15,Atendida,1.7,Sim
+SOL-00399,2026-10-02 02:44,Centro Cirúrgico,ORT,Eletiva,2026-10-02 08:44,Atendida,6,Sim
+SOL-00400,2026-10-02 07:22,Pronto-Socorro,ONC,Emergência,2026-10-02 09:29,Atendida,2.1,Sim
+SOL-00401,2026-10-02 02:40,Pronto-Socorro,CC,Urgência,2026-10-02 07:08,Atendida,4.5,Sim
+SOL-00402,2026-10-02 13:54,Pronto-Socorro,ONC,Urgência,2026-10-02 17:43,Atendida,3.8,Sim
+SOL-00403,2026-10-02 09:00,Pronto-Socorro,INF,Urgência,,Cancelada,4.2,Não
+SOL-00404,2026-10-02 02:50,Centro Cirúrgico,CM,Urgência,2026-10-02 12:16,Atendida,9.4,Não
+SOL-00405,2026-10-02 10:36,Ambulatório/Eletivo,CM,Eletiva,2026-10-02 16:14,Atendida,5.6,Sim
+SOL-00406,2026-10-02 17:17,Centro Cirúrgico,CM,Urgência,2026-10-02 22:11,Atendida,4.9,Sim
+SOL-00407,2026-10-02 05:05,Pronto-Socorro,PED,Emergência,2026-10-02 06:34,Atendida,1.5,Sim
+SOL-00408,2026-10-02 01:22,Regulação (SISREG),ORT,Eletiva,2026-10-02 08:30,Atendida,7.1,Não
+SOL-00409,2026-10-02 13:51,Pronto-Socorro,UTI,Urgência,2026-10-03 00:40,Atendida,10.8,Não
+SOL-00410,2026-10-03 15:29,Regulação (SISREG),UTI,Urgência,,Cancelada,7.1,Não
+SOL-00411,2026-10-03 15:26,Pronto-Socorro,CC,Eletiva,,Cancelada,21.6,Não
+SOL-00412,2026-10-03 00:41,Regulação (SISREG),UCI,Urgência,2026-10-03 02:04,Atendida,1.4,Sim
+SOL-00413,2026-10-03 13:48,Regulação (SISREG),UTIN,Eletiva,2026-10-04 08:00,Atendida,18.2,Não
+SOL-00414,2026-10-03 17:09,Pronto-Socorro,MAT,Eletiva,2026-10-03 22:28,Atendida,5.3,Sim
+SOL-00415,2026-10-03 00:14,Pronto-Socorro,UCI,Urgência,2026-10-03 06:54,Atendida,6.7,Não
+SOL-00416,2026-10-03 00:13,Centro Cirúrgico,CM,Eletiva,2026-10-03 07:50,Atendida,7.6,Não
+SOL-00417,2026-10-03 12:34,Pronto-Socorro,CC,Emergência,2026-10-03 13:21,Atendida,0.8,Sim
+SOL-00418,2026-10-03 16:26,Pronto-Socorro,PED,Eletiva,2026-10-04 03:18,Atendida,10.9,Não
+SOL-00419,2026-10-03 05:17,Pronto-Socorro,ORT,Emergência,,Cancelada,4.5,Não
+SOL-00420,2026-10-03 18:40,Pronto-Socorro,UCI,Eletiva,2026-10-04 22:59,Atendida,28.3,Não
+SOL-00421,2026-10-03 13:42,Ambulatório/Eletivo,PED,Eletiva,2026-10-03 22:52,Atendida,9.2,Não
+SOL-00422,2026-10-03 08:15,Pronto-Socorro,MAT,Urgência,2026-10-03 11:55,Atendida,3.7,Sim
+SOL-00423,2026-10-03 07:03,Pronto-Socorro,CC,Emergência,2026-10-03 08:15,Atendida,1.2,Sim
+SOL-00424,2026-10-03 07:32,Regulação (SISREG),CC,Urgência,2026-10-03 10:50,Atendida,3.3,Sim
+SOL-00425,2026-10-03 19:55,Ambulatório/Eletivo,CM,Eletiva,2026-10-05 01:43,Atendida,29.8,Não
+SOL-00426,2026-10-03 14:51,Centro Cirúrgico,INF,Eletiva,2026-10-05 10:55,Atendida,44.1,Não
+SOL-00427,2026-10-03 08:26,Pronto-Socorro,ONC,Urgência,2026-10-03 13:00,Atendida,4.6,Sim
+SOL-00428,2026-10-03 11:53,Regulação (SISREG),CM,Eletiva,2026-10-04 03:47,Atendida,15.9,Não
+SOL-00429,2026-10-04 01:53,Pronto-Socorro,PED,Urgência,2026-10-04 05:25,Atendida,3.5,Sim
+SOL-00430,2026-10-04 15:10,Pronto-Socorro,UCI,Urgência,2026-10-04 19:28,Atendida,4.3,Sim
+SOL-00431,2026-10-04 21:58,Pronto-Socorro,UCI,Eletiva,2026-10-05 05:22,Atendida,7.4,Não
+SOL-00432,2026-10-04 20:36,Pronto-Socorro,CM,Urgência,2026-10-05 00:24,Atendida,3.8,Sim
+SOL-00433,2026-10-04 21:08,Pronto-Socorro,UTI,Eletiva,2026-10-05 14:04,Atendida,16.9,Não
+SOL-00434,2026-10-04 05:42,Pronto-Socorro,CC,Urgência,2026-10-04 07:02,Atendida,1.3,Sim
+SOL-00435,2026-10-04 01:37,Pronto-Socorro,CM,Urgência,2026-10-04 06:10,Atendida,4.6,Sim
+SOL-00436,2026-10-04 21:33,Pronto-Socorro,UTI,Eletiva,2026-10-05 05:48,Atendida,8.3,Não
+SOL-00437,2026-10-04 23:17,Regulação (SISREG),CM,Urgência,2026-10-05 21:39,Atendida,22.4,Não
+SOL-00438,2026-10-04 19:35,Pronto-Socorro,INF,Urgência,2026-10-05 16:51,Atendida,21.3,Não
+SOL-00439,2026-10-04 10:23,Pronto-Socorro,CC,Eletiva,2026-10-04 13:43,Atendida,3.3,Sim
+SOL-00440,2026-10-04 17:13,Regulação (SISREG),ONC,Urgência,2026-10-04 20:55,Atendida,3.7,Sim
+SOL-00441,2026-10-04 02:23,Pronto-Socorro,CM,Urgência,,Cancelada,2.1,Não
+SOL-00442,2026-10-04 21:23,Centro Cirúrgico,ONC,Emergência,2026-10-04 23:02,Atendida,1.6,Sim
+SOL-00443,2026-10-04 02:08,Pronto-Socorro,MAT,Eletiva,2026-10-04 15:43,Atendida,13.6,Não
+SOL-00444,2026-10-04 07:19,Pronto-Socorro,UTI,Urgência,2026-10-05 01:01,Atendida,17.7,Não
+SOL-00445,2026-10-04 07:10,Ambulatório/Eletivo,PED,Eletiva,2026-10-04 10:23,Atendida,3.2,Sim
+SOL-00446,2026-10-04 02:56,Centro Cirúrgico,CM,Urgência,2026-10-04 19:13,Atendida,16.3,Não
+SOL-00447,2026-10-04 05:52,Pronto-Socorro,MAT,Emergência,2026-10-04 14:15,Atendida,8.4,Não
+SOL-00448,2026-10-04 21:05,Pronto-Socorro,CM,Urgência,2026-10-06 21:06,Atendida,48,Não
+SOL-00449,2026-10-04 05:06,Pronto-Socorro,UTI,Eletiva,2026-10-04 17:14,Atendida,12.1,Não
+SOL-00450,2026-10-04 07:44,Pronto-Socorro,CM,Urgência,2026-10-04 23:53,Atendida,16.2,Não
+SOL-00451,2026-10-04 12:48,Pronto-Socorro,MAT,Urgência,2026-10-04 14:37,Atendida,1.8,Sim
+SOL-00452,2026-10-05 08:11,Ambulatório/Eletivo,CM,Eletiva,2026-10-05 17:29,Atendida,9.3,Não
+SOL-00453,2026-10-05 22:00,Centro Cirúrgico,UCI,Urgência,2026-10-06 18:11,Atendida,20.2,Não
+SOL-00454,2026-10-05 07:50,Regulação (SISREG),ONC,Urgência,2026-10-05 11:30,Atendida,3.7,Sim
+SOL-00455,2026-10-05 16:21,Ambulatório/Eletivo,ONC,Eletiva,2026-10-05 21:01,Atendida,4.7,Sim
+SOL-00456,2026-10-05 04:04,Regulação (SISREG),CC,Eletiva,2026-10-05 06:05,Atendida,2,Sim
+SOL-00457,2026-10-05 10:49,Pronto-Socorro,CM,Urgência,2026-10-05 16:32,Atendida,5.7,Sim
+SOL-00458,2026-10-05 17:51,Pronto-Socorro,CM,Urgência,2026-10-06 11:23,Atendida,17.5,Não
+SOL-00459,2026-10-05 09:24,Regulação (SISREG),INF,Urgência,2026-10-05 16:03,Atendida,6.7,Não
+SOL-00460,2026-10-05 03:59,Regulação (SISREG),ORT,Urgência,2026-10-05 19:21,Atendida,15.4,Não
+SOL-00461,2026-10-05 20:56,Pronto-Socorro,MAT,Eletiva,2026-10-06 06:36,Atendida,9.7,Não
+SOL-00462,2026-10-05 21:03,Regulação (SISREG),CM,Urgência,2026-10-06 05:09,Atendida,8.1,Não
+SOL-00463,2026-10-05 16:07,Regulação (SISREG),ORT,Urgência,2026-10-06 10:39,Atendida,18.5,Não
+SOL-00464,2026-10-05 18:26,Ambulatório/Eletivo,CM,Eletiva,2026-10-07 15:01,Atendida,44.6,Não
+SOL-00465,2026-10-05 23:12,Pronto-Socorro,ONC,Urgência,2026-10-06 06:46,Atendida,7.6,Não
+SOL-00466,2026-10-05 22:14,Regulação (SISREG),CM,Urgência,2026-10-06 01:31,Atendida,3.3,Sim
+SOL-00467,2026-10-05 03:22,Pronto-Socorro,MAT,Urgência,2026-10-05 07:17,Atendida,3.9,Sim
+SOL-00468,2026-10-05 12:13,Pronto-Socorro,ORT,Urgência,2026-10-05 17:13,Atendida,5,Sim
+SOL-00469,2026-10-05 19:24,Pronto-Socorro,CM,Eletiva,2026-10-06 04:41,Atendida,9.3,Não
+SOL-00470,2026-10-05 12:56,Pronto-Socorro,CC,Eletiva,2026-10-05 22:51,Atendida,9.9,Não
+SOL-00471,2026-10-05 21:49,Pronto-Socorro,UCI,Urgência,2026-10-06 05:24,Atendida,7.6,Não
+SOL-00472,2026-10-05 07:09,Regulação (SISREG),CM,Emergência,2026-10-05 15:19,Atendida,8.2,Não
+SOL-00473,2026-10-05 12:50,Pronto-Socorro,CM,Eletiva,2026-10-09 12:50,Atendida,96,Não
+SOL-00474,2026-10-05 04:50,Pronto-Socorro,CM,Emergência,2026-10-05 06:16,Atendida,1.4,Sim
+SOL-00475,2026-10-05 18:49,Ambulatório/Eletivo,CM,Eletiva,2026-10-06 18:40,Atendida,23.9,Não
+SOL-00476,2026-10-05 20:11,Centro Cirúrgico,UTIN,Urgência,2026-10-05 21:45,Atendida,1.6,Sim
+SOL-00477,2026-10-05 19:07,Pronto-Socorro,UCI,Urgência,2026-10-06 05:35,Atendida,10.5,Não
+SOL-00478,2026-10-05 06:35,Pronto-Socorro,CM,Emergência,2026-10-05 08:28,Atendida,1.9,Sim
+SOL-00479,2026-10-05 19:11,Ambulatório/Eletivo,ORT,Eletiva,2026-10-09 19:11,Atendida,96,Não
+SOL-00480,2026-10-05 11:56,Pronto-Socorro,CC,Eletiva,2026-10-05 18:43,Atendida,6.8,Não
+SOL-00481,2026-10-05 04:40,Pronto-Socorro,ORT,Urgência,2026-10-05 06:15,Atendida,1.6,Sim
+SOL-00482,2026-10-05 02:54,Pronto-Socorro,CM,Eletiva,2026-10-05 22:22,Atendida,19.5,Não
+SOL-00483,2026-10-05 02:47,Regulação (SISREG),CC,Urgência,,Cancelada,3.9,Não
+SOL-00484,2026-10-05 15:07,Pronto-Socorro,UCI,Eletiva,2026-10-06 23:38,Atendida,32.5,Não
+SOL-00485,2026-10-05 06:53,Pronto-Socorro,MAT,Urgência,,Cancelada,4.2,Não
+SOL-00486,2026-10-05 16:53,Pronto-Socorro,CM,Urgência,2026-10-06 04:03,Atendida,11.2,Não
+SOL-00487,2026-10-05 09:03,Pronto-Socorro,CC,Urgência,2026-10-05 10:24,Atendida,1.4,Sim
+SOL-00488,2026-10-05 10:17,Centro Cirúrgico,ORT,Eletiva,2026-10-05 14:43,Atendida,4.4,Sim
+SOL-00489,2026-10-06 15:18,Ambulatório/Eletivo,UCI,Eletiva,2026-10-07 03:21,Atendida,12.1,Não
+SOL-00490,2026-10-06 22:33,Regulação (SISREG),CM,Urgência,2026-10-07 13:43,Atendida,15.2,Não
+SOL-00491,2026-10-06 19:14,Regulação (SISREG),CM,Eletiva,2026-10-07 16:56,Atendida,21.7,Não
+SOL-00492,2026-10-06 21:02,Centro Cirúrgico,CM,Eletiva,2026-10-07 11:28,Atendida,14.4,Não
+SOL-00493,2026-10-06 02:46,Ambulatório/Eletivo,UTI,Eletiva,2026-10-07 19:13,Atendida,40.4,Não
+SOL-00494,2026-10-06 11:34,Ambulatório/Eletivo,CC,Eletiva,2026-10-07 07:37,Atendida,20.1,Não
+SOL-00495,2026-10-06 15:45,Regulação (SISREG),CM,Eletiva,2026-10-08 03:42,Atendida,35.9,Não
+SOL-00496,2026-10-06 04:07,Pronto-Socorro,CC,Eletiva,2026-10-08 04:52,Atendida,48.7,Não
+SOL-00497,2026-10-06 02:44,Pronto-Socorro,CC,Urgência,2026-10-06 06:54,Atendida,4.2,Sim
+SOL-00498,2026-10-06 20:51,Centro Cirúrgico,PED,Eletiva,2026-10-06 23:27,Atendida,2.6,Sim
+SOL-00499,2026-10-06 20:15,Pronto-Socorro,ONC,Urgência,2026-10-07 03:38,Atendida,7.4,Não
+SOL-00500,2026-10-06 04:15,Pronto-Socorro,ORT,Urgência,2026-10-06 11:52,Atendida,7.6,Não
+SOL-00501,2026-10-06 10:52,Centro Cirúrgico,ORT,Urgência,2026-10-06 22:34,Atendida,11.7,Não
+SOL-00502,2026-10-06 13:45,Ambulatório/Eletivo,ORT,Eletiva,2026-10-07 13:19,Atendida,23.6,Não
+SOL-00503,2026-10-06 16:55,Pronto-Socorro,PED,Urgência,2026-10-07 03:06,Atendida,10.2,Não
+SOL-00504,2026-10-06 11:07,Pronto-Socorro,UTI,Urgência,2026-10-06 23:31,Atendida,12.4,Não
+SOL-00505,2026-10-06 23:07,Ambulatório/Eletivo,CM,Eletiva,2026-10-07 17:56,Atendida,18.8,Não
+SOL-00506,2026-10-06 12:23,Pronto-Socorro,CM,Urgência,2026-10-06 23:41,Atendida,11.3,Não
+SOL-00507,2026-10-06 02:54,Ambulatório/Eletivo,CC,Eletiva,2026-10-06 04:08,Atendida,1.2,Sim
+SOL-00508,2026-10-06 11:41,Pronto-Socorro,CM,Urgência,2026-10-06 17:50,Atendida,6.1,Não
+SOL-00509,2026-10-06 21:05,Regulação (SISREG),UTI,Urgência,2026-10-07 07:38,Atendida,10.5,Não
+SOL-00510,2026-10-06 15:42,Regulação (SISREG),UTIN,Eletiva,2026-10-07 07:59,Atendida,16.3,Não
+SOL-00511,2026-10-06 21:24,Pronto-Socorro,ORT,Eletiva,2026-10-07 01:12,Atendida,3.8,Sim
+SOL-00512,2026-10-06 17:51,Pronto-Socorro,CM,Urgência,2026-10-07 09:17,Atendida,15.4,Não
+SOL-00513,2026-10-07 06:56,Pronto-Socorro,CC,Eletiva,2026-10-07 11:11,Atendida,4.3,Sim
+SOL-00514,2026-10-07 03:04,Pronto-Socorro,CC,Eletiva,2026-10-08 03:19,Atendida,24.2,Não
+SOL-00515,2026-10-07 21:25,Pronto-Socorro,MAT,Urgência,2026-10-08 01:29,Atendida,4.1,Sim
+SOL-00516,2026-10-07 01:02,Regulação (SISREG),UTI,Emergência,2026-10-07 04:19,Atendida,3.3,Sim
+SOL-00517,2026-10-07 10:20,Pronto-Socorro,MAT,Urgência,2026-10-07 13:32,Atendida,3.2,Sim
+SOL-00518,2026-10-07 06:10,Ambulatório/Eletivo,PED,Eletiva,2026-10-07 07:28,Atendida,1.3,Sim
+SOL-00519,2026-10-07 10:40,Pronto-Socorro,PED,Eletiva,2026-10-07 13:22,Atendida,2.7,Sim
+SOL-00520,2026-10-07 21:02,Pronto-Socorro,UTIN,Urgência,2026-10-08 06:48,Atendida,9.8,Não
+SOL-00521,2026-10-07 22:54,Pronto-Socorro,ORT,Urgência,2026-10-08 12:32,Atendida,13.6,Não
+SOL-00522,2026-10-07 13:07,Regulação (SISREG),UTIN,Urgência,2026-10-07 16:18,Atendida,3.2,Sim
+SOL-00523,2026-10-07 06:27,Pronto-Socorro,ORT,Eletiva,2026-10-08 06:32,Atendida,24.1,Não
+SOL-00524,2026-10-07 07:19,Pronto-Socorro,ORT,Eletiva,2026-10-07 11:51,Atendida,4.5,Sim
+SOL-00525,2026-10-07 04:10,Pronto-Socorro,CM,Eletiva,2026-10-07 15:56,Atendida,11.8,Não
+SOL-00526,2026-10-07 02:21,Pronto-Socorro,CC,Urgência,2026-10-07 05:28,Atendida,3.1,Sim
+SOL-00527,2026-10-07 14:28,Pronto-Socorro,MAT,Eletiva,2026-10-07 17:59,Atendida,3.5,Sim
+SOL-00528,2026-10-07 09:00,Centro Cirúrgico,CM,Urgência,2026-10-08 08:21,Atendida,23.3,Não
+SOL-00529,2026-10-07 13:10,Ambulatório/Eletivo,UTIN,Eletiva,2026-10-07 18:05,Atendida,4.9,Sim
+SOL-00530,2026-10-07 04:53,Regulação (SISREG),CM,Urgência,2026-10-08 01:32,Atendida,20.7,Não
+SOL-00531,2026-10-07 10:29,Centro Cirúrgico,CM,Emergência,2026-10-07 12:25,Atendida,1.9,Sim
+SOL-00532,2026-10-07 21:52,Pronto-Socorro,MAT,Urgência,,Cancelada,3.2,Não
+SOL-00533,2026-10-07 10:11,Pronto-Socorro,CM,Emergência,2026-10-07 12:17,Atendida,2.1,Sim
+SOL-00534,2026-10-07 12:13,Pronto-Socorro,CM,Urgência,2026-10-07 15:54,Atendida,3.7,Sim
+SOL-00535,2026-10-07 10:11,Ambulatório/Eletivo,CM,Eletiva,2026-10-08 19:02,Atendida,32.9,Não
+SOL-00536,2026-10-07 23:42,Pronto-Socorro,UTIN,Urgência,2026-10-08 05:01,Atendida,5.3,Sim
+SOL-00537,2026-10-07 23:04,Regulação (SISREG),CC,Urgência,2026-10-08 03:37,Atendida,4.5,Sim
+SOL-00538,2026-10-07 11:55,Ambulatório/Eletivo,UCI,Eletiva,2026-10-07 22:00,Atendida,10.1,Não
+SOL-00539,2026-10-07 06:13,Ambulatório/Eletivo,MAT,Eletiva,2026-10-07 10:07,Atendida,3.9,Sim
+SOL-00540,2026-10-07 08:23,Pronto-Socorro,CM,Eletiva,2026-10-07 18:01,Atendida,9.6,Não
+SOL-00541,2026-10-07 11:48,Centro Cirúrgico,ORT,Emergência,2026-10-07 13:06,Atendida,1.3,Sim
+SOL-00542,2026-10-07 04:49,Regulação (SISREG),CM,Emergência,2026-10-07 06:31,Atendida,1.7,Sim
+SOL-00543,2026-10-07 13:23,Pronto-Socorro,UTI,Urgência,2026-10-07 21:10,Atendida,7.8,Não
+SOL-00544,2026-10-07 23:57,Pronto-Socorro,CC,Eletiva,2026-10-08 15:18,Atendida,15.3,Não
+SOL-00545,2026-10-07 17:42,Ambulatório/Eletivo,ORT,Eletiva,2026-10-08 03:16,Atendida,9.6,Não
+SOL-00546,2026-10-07 02:52,Pronto-Socorro,ORT,Eletiva,2026-10-08 02:53,Atendida,24,Não
+SOL-00547,2026-10-07 04:44,Pronto-Socorro,MAT,Urgência,,Cancelada,1,Não
+SOL-00548,2026-10-08 10:59,Pronto-Socorro,CC,Urgência,,Cancelada,3,Não
+SOL-00549,2026-10-08 16:57,Regulação (SISREG),CM,Urgência,2026-10-09 12:49,Atendida,19.9,Não
+SOL-00550,2026-10-08 11:19,Regulação (SISREG),CC,Urgência,2026-10-08 12:13,Atendida,0.9,Sim
+SOL-00551,2026-10-08 12:09,Pronto-Socorro,UCI,Emergência,2026-10-08 14:16,Atendida,2.1,Sim
+SOL-00552,2026-10-08 06:58,Regulação (SISREG),CM,Urgência,2026-10-08 22:15,Atendida,15.3,Não
+SOL-00553,2026-10-08 15:57,Pronto-Socorro,UTIN,Urgência,2026-10-08 18:45,Atendida,2.8,Sim
+SOL-00554,2026-10-08 23:46,Regulação (SISREG),INF,Urgência,2026-10-09 12:37,Atendida,12.8,Não
+SOL-00555,2026-10-08 18:45,Pronto-Socorro,INF,Urgência,2026-10-08 23:46,Atendida,5,Sim
+SOL-00556,2026-10-08 22:12,Ambulatório/Eletivo,MAT,Eletiva,2026-10-09 01:56,Atendida,3.7,Sim
+SOL-00557,2026-10-08 00:01,Pronto-Socorro,CC,Urgência,2026-10-08 02:22,Atendida,2.4,Sim
+SOL-00558,2026-10-08 13:49,Regulação (SISREG),CM,Urgência,2026-10-08 14:44,Atendida,0.9,Sim
+SOL-00559,2026-10-08 03:21,Centro Cirúrgico,UTI,Urgência,2026-10-09 06:34,Atendida,27.2,Não
+SOL-00560,2026-10-08 23:32,Ambulatório/Eletivo,INF,Eletiva,2026-10-09 13:20,Atendida,13.8,Não
+SOL-00561,2026-10-08 08:19,Pronto-Socorro,PED,Urgência,2026-10-08 10:35,Atendida,2.3,Sim
+SOL-00562,2026-10-08 09:54,Regulação (SISREG),UTI,Emergência,2026-10-08 15:20,Atendida,5.4,Sim
+SOL-00563,2026-10-08 16:54,Regulação (SISREG),INF,Urgência,2026-10-09 02:21,Atendida,9.4,Não
+SOL-00564,2026-10-08 18:35,Regulação (SISREG),CM,Urgência,2026-10-09 00:05,Atendida,5.5,Sim
+SOL-00565,2026-10-08 11:34,Pronto-Socorro,ORT,Eletiva,2026-10-08 13:16,Atendida,1.7,Sim
+SOL-00566,2026-10-08 06:58,Pronto-Socorro,UCI,Urgência,2026-10-08 10:58,Atendida,4,Sim
+SOL-00567,2026-10-08 04:09,Pronto-Socorro,ONC,Eletiva,2026-10-08 23:26,Atendida,19.3,Não
+SOL-00568,2026-10-08 13:40,Ambulatório/Eletivo,PED,Eletiva,2026-10-08 16:39,Atendida,3,Sim
+SOL-00569,2026-10-08 02:13,Pronto-Socorro,UCI,Eletiva,,Cancelada,4.7,Não
+SOL-00570,2026-10-08 04:00,Regulação (SISREG),UTI,Urgência,2026-10-09 01:25,Atendida,21.4,Não
+SOL-00571,2026-10-08 12:20,Centro Cirúrgico,ORT,Eletiva,2026-10-08 18:36,Atendida,6.3,Não
+SOL-00572,2026-10-08 13:55,Pronto-Socorro,CM,Urgência,2026-10-08 18:34,Atendida,4.6,Sim
+SOL-00573,2026-10-08 02:26,Pronto-Socorro,UCI,Emergência,2026-10-08 04:42,Atendida,2.3,Sim
+SOL-00574,2026-10-08 16:52,Ambulatório/Eletivo,UTI,Eletiva,2026-10-09 01:03,Atendida,8.2,Não
+SOL-00575,2026-10-08 14:40,Regulação (SISREG),MAT,Eletiva,2026-10-08 18:22,Atendida,3.7,Sim
+SOL-00576,2026-10-09 14:25,Centro Cirúrgico,CM,Urgência,2026-10-10 04:38,Atendida,14.2,Não
+SOL-00577,2026-10-09 12:18,Ambulatório/Eletivo,CC,Eletiva,,Cancelada,3.5,Não
+SOL-00578,2026-10-09 21:16,Centro Cirúrgico,UTI,Emergência,2026-10-10 03:13,Atendida,6,Sim
+SOL-00579,2026-10-09 20:08,Ambulatório/Eletivo,UTI,Eletiva,2026-10-10 13:55,Atendida,17.8,Não
+SOL-00580,2026-10-09 23:38,Ambulatório/Eletivo,UCI,Eletiva,2026-10-10 13:11,Atendida,13.5,Não
+SOL-00581,2026-10-09 01:30,Pronto-Socorro,ORT,Urgência,2026-10-09 06:42,Atendida,5.2,Sim
+SOL-00582,2026-10-09 02:48,Pronto-Socorro,PED,Emergência,,Cancelada,1.7,Não
+SOL-00583,2026-10-09 19:06,Pronto-Socorro,CC,Emergência,2026-10-10 01:35,Atendida,6.5,Não
+SOL-00584,2026-10-09 06:58,Ambulatório/Eletivo,CM,Eletiva,2026-10-10 16:47,Atendida,33.8,Não
+SOL-00585,2026-10-09 03:24,Pronto-Socorro,CC,Urgência,2026-10-09 09:41,Atendida,6.3,Não
+SOL-00586,2026-10-09 12:27,Pronto-Socorro,CM,Urgência,2026-10-09 19:56,Atendida,7.5,Não
+SOL-00587,2026-10-09 18:50,Regulação (SISREG),CM,Emergência,2026-10-10 02:46,Atendida,7.9,Não
+SOL-00588,2026-10-09 03:21,Ambulatório/Eletivo,INF,Eletiva,2026-10-09 23:27,Atendida,20.1,Não
+SOL-00589,2026-10-09 11:38,Regulação (SISREG),UTIN,Urgência,2026-10-09 20:25,Atendida,8.8,Não
+SOL-00590,2026-10-09 18:44,Regulação (SISREG),CM,Urgência,2026-10-10 01:36,Atendida,6.9,Não
+SOL-00591,2026-10-09 21:56,Pronto-Socorro,MAT,Urgência,2026-10-10 18:52,Atendida,20.9,Não
+SOL-00592,2026-10-09 11:46,Pronto-Socorro,ORT,Urgência,2026-10-09 16:15,Atendida,4.5,Sim
+SOL-00593,2026-10-09 09:29,Pronto-Socorro,CM,Urgência,2026-10-09 16:47,Atendida,7.3,Não
+SOL-00594,2026-10-09 23:45,Centro Cirúrgico,CM,Urgência,2026-10-11 04:55,Atendida,29.2,Não
+SOL-00595,2026-10-09 10:14,Pronto-Socorro,ONC,Urgência,2026-10-09 20:19,Atendida,10.1,Não
+SOL-00596,2026-10-09 04:54,Pronto-Socorro,CM,Eletiva,2026-10-09 14:24,Atendida,9.5,Não
+SOL-00597,2026-10-09 10:20,Pronto-Socorro,CM,Urgência,2026-10-09 16:51,Atendida,6.5,Não
+SOL-00598,2026-10-09 22:08,Pronto-Socorro,CM,Urgência,2026-10-10 18:52,Atendida,20.7,Não
+SOL-00599,2026-10-09 07:44,Regulação (SISREG),UTI,Urgência,2026-10-10 05:44,Atendida,22,Não
+SOL-00600,2026-10-10 23:55,Regulação (SISREG),UCI,Eletiva,2026-10-11 23:52,Atendida,23.9,Não
+SOL-00601,2026-10-10 16:39,Pronto-Socorro,PED,Emergência,2026-10-10 17:36,Atendida,1,Sim
+SOL-00602,2026-10-10 04:00,Pronto-Socorro,PED,Urgência,2026-10-10 05:35,Atendida,1.6,Sim
+SOL-00603,2026-10-10 03:11,Pronto-Socorro,ONC,Urgência,2026-10-10 05:25,Atendida,2.2,Sim
+SOL-00604,2026-10-10 13:13,Pronto-Socorro,ORT,Urgência,2026-10-11 00:22,Atendida,11.2,Não
+SOL-00605,2026-10-10 11:31,Pronto-Socorro,CM,Urgência,2026-10-10 20:23,Atendida,8.9,Não
+SOL-00606,2026-10-10 23:56,Pronto-Socorro,CC,Eletiva,2026-10-11 01:19,Atendida,1.4,Sim
+SOL-00607,2026-10-10 10:59,Pronto-Socorro,MAT,Urgência,,Cancelada,1.2,Não
+SOL-00608,2026-10-10 06:54,Regulação (SISREG),MAT,Urgência,2026-10-10 14:37,Atendida,7.7,Não
+SOL-00609,2026-10-10 15:54,Pronto-Socorro,CM,Emergência,2026-10-10 19:42,Atendida,3.8,Sim
+SOL-00610,2026-10-10 13:54,Pronto-Socorro,CM,Urgência,2026-10-11 00:03,Atendida,10.1,Não
+SOL-00611,2026-10-10 16:43,Centro Cirúrgico,UTI,Eletiva,2026-10-12 22:18,Atendida,53.6,Não
+SOL-00612,2026-10-10 08:36,Pronto-Socorro,MAT,Urgência,2026-10-10 11:02,Atendida,2.4,Sim
+SOL-00613,2026-10-10 12:46,Pronto-Socorro,CC,Emergência,2026-10-10 14:00,Atendida,1.2,Sim
+SOL-00614,2026-10-10 04:10,Pronto-Socorro,INF,Emergência,2026-10-10 05:50,Atendida,1.7,Sim
+SOL-00615,2026-10-10 05:45,Pronto-Socorro,CM,Urgência,,Cancelada,12.1,Não
+SOL-00616,2026-10-10 18:17,Pronto-Socorro,UCI,Eletiva,2026-10-11 07:19,Atendida,13,Não
+SOL-00617,2026-10-10 10:41,Pronto-Socorro,PED,Eletiva,2026-10-11 00:23,Atendida,13.7,Não
+SOL-00618,2026-10-10 02:56,Ambulatório/Eletivo,CM,Eletiva,2026-10-10 10:14,Atendida,7.3,Não
+SOL-00619,2026-10-10 18:15,Pronto-Socorro,INF,Urgência,2026-10-11 03:01,Atendida,8.8,Não
+SOL-00620,2026-10-10 05:38,Pronto-Socorro,CC,Emergência,2026-10-10 08:28,Atendida,2.8,Sim
+SOL-00621,2026-10-10 11:19,Pronto-Socorro,UTI,Urgência,2026-10-10 16:13,Atendida,4.9,Sim
+SOL-00622,2026-10-10 18:42,Pronto-Socorro,PED,Urgência,2026-10-10 22:19,Atendida,3.6,Sim
+SOL-00623,2026-10-10 20:03,Centro Cirúrgico,CM,Urgência,2026-10-10 23:07,Atendida,3.1,Sim
+SOL-00624,2026-10-11 11:03,Regulação (SISREG),CM,Eletiva,2026-10-12 00:13,Atendida,13.2,Não
+SOL-00625,2026-10-11 01:37,Centro Cirúrgico,UTI,Urgência,2026-10-11 07:39,Atendida,6,Sim
+SOL-00626,2026-10-11 04:46,Regulação (SISREG),UTIN,Urgência,2026-10-11 05:25,Atendida,0.6,Sim
+SOL-00627,2026-10-11 17:17,Ambulatório/Eletivo,UTI,Eletiva,,Cancelada,18.5,Não
+SOL-00628,2026-10-11 22:55,Regulação (SISREG),CM,Eletiva,2026-10-12 05:46,Atendida,6.9,Não
+SOL-00629,2026-10-11 04:27,Pronto-Socorro,CC,Eletiva,2026-10-11 07:44,Atendida,3.3,Sim
+SOL-00630,2026-10-11 17:26,Ambulatório/Eletivo,INF,Eletiva,2026-10-12 06:35,Atendida,13.2,Não
+SOL-00631,2026-10-11 06:56,Pronto-Socorro,CM,Urgência,2026-10-11 17:47,Atendida,10.9,Não
+SOL-00632,2026-10-11 04:23,Pronto-Socorro,CC,Urgência,2026-10-11 20:50,Atendida,16.5,Não
+SOL-00633,2026-10-11 07:21,Regulação (SISREG),MAT,Eletiva,2026-10-11 09:40,Atendida,2.3,Sim
+SOL-00634,2026-10-11 16:56,Centro Cirúrgico,MAT,Urgência,2026-10-12 17:46,Atendida,24.8,Não
+SOL-00635,2026-10-11 19:32,Pronto-Socorro,CM,Eletiva,2026-10-11 22:25,Atendida,2.9,Sim
+SOL-00636,2026-10-11 11:09,Regulação (SISREG),INF,Eletiva,2026-10-12 07:41,Atendida,20.5,Não
+SOL-00637,2026-10-11 05:20,Centro Cirúrgico,CM,Emergência,2026-10-11 08:49,Atendida,3.5,Sim
+SOL-00638,2026-10-11 10:54,Pronto-Socorro,UCI,Urgência,2026-10-11 14:57,Atendida,4,Sim
+SOL-00639,2026-10-11 13:29,Pronto-Socorro,CM,Urgência,2026-10-11 22:40,Atendida,9.2,Não
+SOL-00640,2026-10-11 07:15,Ambulatório/Eletivo,UTI,Eletiva,2026-10-12 02:31,Atendida,19.3,Não
+SOL-00641,2026-10-12 18:47,Pronto-Socorro,ONC,Emergência,2026-10-12 20:34,Atendida,1.8,Sim
+SOL-00642,2026-10-12 03:28,Regulação (SISREG),UTI,Urgência,,Cancelada,13.9,Não
+SOL-00643,2026-10-12 16:05,Pronto-Socorro,CC,Urgência,2026-10-12 19:42,Atendida,3.6,Sim
+SOL-00644,2026-10-12 21:17,Pronto-Socorro,CM,Urgência,2026-10-13 05:45,Atendida,8.5,Não
+SOL-00645,2026-10-12 03:34,Centro Cirúrgico,CC,Emergência,2026-10-12 04:48,Atendida,1.2,Sim
+SOL-00646,2026-10-12 20:14,Pronto-Socorro,ONC,Urgência,2026-10-13 01:04,Atendida,4.8,Sim
+SOL-00647,2026-10-12 03:07,Centro Cirúrgico,ORT,Urgência,2026-10-12 06:22,Atendida,3.3,Sim
+SOL-00648,2026-10-12 16:25,Regulação (SISREG),CM,Emergência,2026-10-13 02:50,Atendida,10.4,Não
+SOL-00649,2026-10-12 23:05,Pronto-Socorro,MAT,Emergência,2026-10-12 23:46,Atendida,0.7,Sim
+SOL-00650,2026-10-12 17:05,Regulação (SISREG),CM,Urgência,2026-10-13 03:05,Atendida,10,Não
+SOL-00651,2026-10-12 21:41,Pronto-Socorro,CC,Eletiva,2026-10-13 05:26,Atendida,7.7,Não
+SOL-00652,2026-10-12 22:05,Regulação (SISREG),MAT,Urgência,2026-10-13 03:14,Atendida,5.2,Sim
+SOL-00653,2026-10-12 07:31,Pronto-Socorro,UTI,Urgência,2026-10-12 18:55,Atendida,11.4,Não
+SOL-00654,2026-10-12 23:06,Centro Cirúrgico,CM,Urgência,2026-10-13 16:02,Atendida,16.9,Não
+SOL-00655,2026-10-12 23:21,Pronto-Socorro,CM,Urgência,2026-10-13 09:51,Atendida,10.5,Não
+SOL-00656,2026-10-12 07:53,Ambulatório/Eletivo,UTI,Eletiva,,Cancelada,21.3,Não
+SOL-00657,2026-10-12 00:14,Pronto-Socorro,CM,Emergência,2026-10-12 02:59,Atendida,2.7,Sim
+SOL-00658,2026-10-12 05:57,Pronto-Socorro,CM,Urgência,2026-10-13 00:22,Atendida,18.4,Não
+SOL-00659,2026-10-12 08:27,Pronto-Socorro,ORT,Urgência,2026-10-12 18:55,Atendida,10.5,Não
+SOL-00660,2026-10-12 03:11,Ambulatório/Eletivo,ORT,Eletiva,2026-10-12 12:02,Atendida,8.8,Não
+SOL-00661,2026-10-12 17:45,Pronto-Socorro,MAT,Urgência,2026-10-12 23:10,Atendida,5.4,Sim
+SOL-00662,2026-10-12 14:20,Centro Cirúrgico,CM,Eletiva,2026-10-15 13:56,Atendida,71.6,Não
+SOL-00663,2026-10-12 14:31,Pronto-Socorro,PED,Urgência,2026-10-12 18:46,Atendida,4.3,Sim
+SOL-00664,2026-10-12 20:19,Pronto-Socorro,MAT,Urgência,2026-10-12 22:18,Atendida,2,Sim
+SOL-00665,2026-10-12 06:27,Pronto-Socorro,CM,Emergência,2026-10-12 17:57,Atendida,11.5,Não
+SOL-00666,2026-10-12 09:00,Pronto-Socorro,ORT,Urgência,2026-10-12 14:52,Atendida,5.9,Sim
+SOL-00667,2026-10-13 13:28,Pronto-Socorro,UCI,Urgência,,Cancelada,31.4,Não
+SOL-00668,2026-10-13 02:43,Pronto-Socorro,CM,Eletiva,2026-10-14 02:43,Atendida,24,Não
+SOL-00669,2026-10-13 19:45,Centro Cirúrgico,CM,Urgência,2026-10-14 03:47,Atendida,8,Não
+SOL-00670,2026-10-13 01:33,Pronto-Socorro,CM,Urgência,,Cancelada,16.4,Não
+SOL-00671,2026-10-13 04:55,Regulação (SISREG),INF,Emergência,2026-10-13 12:47,Atendida,7.9,Não
+SOL-00672,2026-10-13 23:39,Pronto-Socorro,CM,Urgência,2026-10-14 17:21,Atendida,17.7,Não
+SOL-00673,2026-10-13 15:44,Pronto-Socorro,CM,Urgência,2026-10-13 21:17,Atendida,5.5,Sim
+SOL-00674,2026-10-13 17:06,Pronto-Socorro,CM,Urgência,2026-10-13 20:55,Atendida,3.8,Sim
+SOL-00675,2026-10-13 11:38,Pronto-Socorro,CM,Urgência,2026-10-13 19:22,Atendida,7.7,Não
+SOL-00676,2026-10-13 01:16,Pronto-Socorro,ORT,Urgência,2026-10-13 04:17,Atendida,3,Sim
+SOL-00677,2026-10-13 14:07,Pronto-Socorro,CM,Urgência,2026-10-14 07:32,Atendida,17.4,Não
+SOL-00678,2026-10-13 01:28,Regulação (SISREG),ORT,Urgência,2026-10-13 06:39,Atendida,5.2,Sim
+SOL-00679,2026-10-13 06:03,Pronto-Socorro,ONC,Urgência,2026-10-13 13:47,Atendida,7.7,Não
+SOL-00680,2026-10-13 13:32,Pronto-Socorro,ORT,Eletiva,2026-10-14 11:15,Atendida,21.7,Não
+SOL-00681,2026-10-13 01:01,Pronto-Socorro,CC,Emergência,2026-10-13 02:12,Atendida,1.2,Sim
+SOL-00682,2026-10-13 16:18,Pronto-Socorro,CM,Urgência,,Cancelada,1.6,Não
+SOL-00683,2026-10-13 05:34,Pronto-Socorro,CC,Emergência,2026-10-13 07:24,Atendida,1.8,Sim
+SOL-00684,2026-10-13 22:09,Pronto-Socorro,CM,Eletiva,2026-10-14 03:32,Atendida,5.4,Sim
+SOL-00685,2026-10-13 19:03,Regulação (SISREG),MAT,Eletiva,,Cancelada,1.1,Não
+SOL-00686,2026-10-13 14:55,Pronto-Socorro,CC,Urgência,2026-10-14 03:11,Atendida,12.3,Não
+SOL-00687,2026-10-13 06:59,Centro Cirúrgico,CM,Urgência,2026-10-13 12:24,Atendida,5.4,Sim
+SOL-00688,2026-10-13 00:04,Centro Cirúrgico,CM,Urgência,2026-10-13 06:16,Atendida,6.2,Não
+SOL-00689,2026-10-14 15:55,Pronto-Socorro,CC,Urgência,2026-10-14 17:45,Atendida,1.8,Sim
+SOL-00690,2026-10-14 02:13,Pronto-Socorro,CC,Emergência,2026-10-14 02:51,Atendida,0.6,Sim
+SOL-00691,2026-10-14 19:51,Centro Cirúrgico,UCI,Urgência,2026-10-15 00:38,Atendida,4.8,Sim
+SOL-00692,2026-10-14 09:41,Centro Cirúrgico,CC,Urgência,2026-10-14 11:16,Atendida,1.6,Sim
+SOL-00693,2026-10-14 18:36,Pronto-Socorro,ORT,Urgência,2026-10-15 00:30,Atendida,5.9,Sim
+SOL-00694,2026-10-14 00:31,Ambulatório/Eletivo,MAT,Eletiva,,Cancelada,21,Não
+SOL-00695,2026-10-14 04:27,Pronto-Socorro,PED,Urgência,2026-10-14 11:13,Atendida,6.8,Não
+SOL-00696,2026-10-14 06:47,Pronto-Socorro,CM,Urgência,2026-10-15 00:01,Atendida,17.2,Não
+SOL-00697,2026-10-14 17:04,Centro Cirúrgico,CC,Eletiva,2026-10-15 00:57,Atendida,7.9,Não
+SOL-00698,2026-10-14 06:24,Ambulatório/Eletivo,CM,Eletiva,2026-10-14 13:47,Atendida,7.4,Não
+SOL-00699,2026-10-14 19:47,Centro Cirúrgico,CM,Emergência,2026-10-15 11:14,Atendida,15.5,Não
+SOL-00700,2026-10-14 07:25,Regulação (SISREG),UTI,Urgência,2026-10-14 21:35,Atendida,14.2,Não
+SOL-00701,2026-10-14 04:29,Ambulatório/Eletivo,CC,Eletiva,2026-10-14 07:52,Atendida,3.4,Sim
+SOL-00702,2026-10-14 06:35,Pronto-Socorro,CM,Urgência,2026-10-14 17:41,Atendida,11.1,Não
+SOL-00703,2026-10-14 01:59,Regulação (SISREG),CC,Emergência,2026-10-14 02:58,Atendida,1,Sim
+SOL-00704,2026-10-14 12:14,Regulação (SISREG),CC,Eletiva,2026-10-15 01:45,Atendida,13.5,Não
+SOL-00705,2026-10-14 00:33,Regulação (SISREG),PED,Eletiva,2026-10-14 09:28,Atendida,8.9,Não
+SOL-00706,2026-10-14 14:18,Regulação (SISREG),CM,Urgência,2026-10-15 04:34,Atendida,14.3,Não
+SOL-00707,2026-10-14 04:00,Pronto-Socorro,ORT,Emergência,2026-10-14 06:48,Atendida,2.8,Sim
+SOL-00708,2026-10-14 08:00,Pronto-Socorro,MAT,Urgência,2026-10-14 10:17,Atendida,2.3,Sim
+SOL-00709,2026-10-14 04:48,Regulação (SISREG),UTI,Urgência,2026-10-14 10:11,Atendida,5.4,Sim
+SOL-00710,2026-10-14 17:45,Regulação (SISREG),INF,Urgência,2026-10-14 19:30,Atendida,1.8,Sim
+SOL-00711,2026-10-14 17:23,Regulação (SISREG),CM,Eletiva,2026-10-15 00:00,Atendida,6.6,Não
+SOL-00712,2026-10-14 22:28,Pronto-Socorro,CC,Urgência,2026-10-15 01:27,Atendida,3,Sim
+SOL-00713,2026-10-14 11:01,Regulação (SISREG),MAT,Urgência,2026-10-14 13:33,Atendida,2.5,Sim
+SOL-00714,2026-10-14 04:22,Pronto-Socorro,PED,Urgência,2026-10-14 07:35,Atendida,3.2,Sim
+SOL-00715,2026-10-14 04:54,Pronto-Socorro,UCI,Urgência,2026-10-14 19:19,Atendida,14.4,Não
+SOL-00716,2026-10-14 11:06,Ambulatório/Eletivo,CC,Eletiva,2026-10-14 16:51,Atendida,5.8,Sim
+SOL-00717,2026-10-14 08:52,Pronto-Socorro,CM,Urgência,2026-10-14 16:43,Atendida,7.8,Não
+SOL-00718,2026-10-14 23:16,Pronto-Socorro,PED,Eletiva,2026-10-15 05:14,Atendida,6,Sim
+SOL-00719,2026-10-15 16:59,Pronto-Socorro,UTI,Urgência,2026-10-16 08:16,Atendida,15.3,Não
+SOL-00720,2026-10-15 16:10,Pronto-Socorro,PED,Urgência,2026-10-15 23:35,Atendida,7.4,Não
+SOL-00721,2026-10-15 08:58,Ambulatório/Eletivo,ONC,Eletiva,2026-10-16 09:21,Atendida,24.4,Não
+SOL-00722,2026-10-15 01:11,Centro Cirúrgico,CM,Emergência,2026-10-15 02:23,Atendida,1.2,Sim
+SOL-00723,2026-10-15 04:59,Regulação (SISREG),UTIN,Urgência,2026-10-15 06:00,Atendida,1,Sim
+SOL-00724,2026-10-15 16:03,Pronto-Socorro,ONC,Emergência,,Cancelada,0.7,Não
+SOL-00725,2026-10-15 14:37,Regulação (SISREG),CC,Eletiva,2026-10-15 19:18,Atendida,4.7,Sim
+SOL-00726,2026-10-15 00:03,Pronto-Socorro,CM,Eletiva,2026-10-15 19:19,Atendida,19.3,Não
+SOL-00727,2026-10-15 00:50,Pronto-Socorro,UTI,Urgência,2026-10-18 01:24,Atendida,72.6,Não
+SOL-00728,2026-10-15 02:29,Pronto-Socorro,CM,Urgência,2026-10-15 18:19,Atendida,15.8,Não
+SOL-00729,2026-10-15 05:37,Pronto-Socorro,CC,Emergência,2026-10-15 06:09,Atendida,0.5,Sim
+SOL-00730,2026-10-15 08:01,Pronto-Socorro,ONC,Urgência,2026-10-15 14:18,Atendida,6.3,Não
+SOL-00731,2026-10-15 20:44,Regulação (SISREG),MAT,Urgência,2026-10-15 21:35,Atendida,0.9,Sim
+SOL-00732,2026-10-15 04:52,Pronto-Socorro,ORT,Eletiva,2026-10-15 17:17,Atendida,12.4,Não
+SOL-00733,2026-10-15 15:20,Pronto-Socorro,UTI,Urgência,2026-10-15 22:00,Atendida,6.7,Não
+SOL-00734,2026-10-15 20:26,Pronto-Socorro,INF,Eletiva,2026-10-16 03:02,Atendida,6.6,Não
+SOL-00735,2026-10-15 17:55,Ambulatório/Eletivo,CM,Eletiva,2026-10-15 20:39,Atendida,2.7,Sim
+SOL-00736,2026-10-15 13:45,Ambulatório/Eletivo,UTI,Eletiva,2026-10-16 03:18,Atendida,13.6,Não
+SOL-00737,2026-10-15 05:07,Regulação (SISREG),UTI,Urgência,2026-10-15 08:11,Atendida,3.1,Sim
+SOL-00738,2026-10-15 11:05,Regulação (SISREG),CC,Urgência,2026-10-15 13:01,Atendida,1.9,Sim
+SOL-00739,2026-10-15 10:47,Regulação (SISREG),CM,Urgência,2026-10-15 21:34,Atendida,10.8,Não
+SOL-00740,2026-10-15 00:17,Pronto-Socorro,UTI,Urgência,2026-10-16 22:52,Atendida,46.6,Não
+SOL-00741,2026-10-15 06:17,Pronto-Socorro,UTI,Emergência,2026-10-15 13:24,Atendida,7.1,Não
+SOL-00742,2026-10-15 13:42,Centro Cirúrgico,ONC,Urgência,2026-10-15 14:28,Atendida,0.8,Sim
+SOL-00743,2026-10-15 02:37,Pronto-Socorro,CM,Emergência,2026-10-15 11:43,Atendida,9.1,Não
+SOL-00744,2026-10-15 02:06,Centro Cirúrgico,CC,Urgência,2026-10-15 07:16,Atendida,5.2,Sim
+SOL-00745,2026-10-15 15:30,Pronto-Socorro,MAT,Urgência,2026-10-16 00:47,Atendida,9.3,Não
+SOL-00746,2026-10-15 23:18,Centro Cirúrgico,MAT,Urgência,2026-10-16 12:45,Atendida,13.4,Não
+SOL-00747,2026-10-15 22:23,Pronto-Socorro,PED,Urgência,2026-10-16 00:04,Atendida,1.7,Sim
+SOL-00748,2026-10-15 10:40,Pronto-Socorro,CM,Urgência,2026-10-15 19:09,Atendida,8.5,Não
+SOL-00749,2026-10-15 07:32,Pronto-Socorro,UCI,Urgência,2026-10-15 09:27,Atendida,1.9,Sim
+SOL-00750,2026-10-15 08:33,Pronto-Socorro,INF,Urgência,,Cancelada,6.1,Não
+SOL-00751,2026-10-15 10:36,Regulação (SISREG),MAT,Eletiva,2026-10-15 14:12,Atendida,3.6,Sim
+SOL-00752,2026-10-15 20:59,Pronto-Socorro,CM,Urgência,2026-10-16 05:47,Atendida,8.8,Não
+SOL-00753,2026-10-15 01:22,Pronto-Socorro,UTIN,Urgência,2026-10-15 04:08,Atendida,2.8,Sim
+SOL-00754,2026-10-15 04:51,Regulação (SISREG),CM,Urgência,2026-10-15 10:13,Atendida,5.4,Sim
+SOL-00755,2026-10-16 00:04,Pronto-Socorro,INF,Emergência,2026-10-16 02:21,Atendida,2.3,Sim
+SOL-00756,2026-10-16 09:31,Pronto-Socorro,CC,Emergência,2026-10-16 10:43,Atendida,1.2,Sim
+SOL-00757,2026-10-16 15:51,Centro Cirúrgico,CM,Urgência,,Cancelada,17.6,Não
+SOL-00758,2026-10-16 17:57,Pronto-Socorro,CM,Urgência,2026-10-18 06:02,Atendida,36.1,Não
+SOL-00759,2026-10-16 15:32,Centro Cirúrgico,ORT,Emergência,2026-10-16 17:35,Atendida,2.1,Sim
+SOL-00760,2026-10-16 05:43,Ambulatório/Eletivo,CC,Eletiva,2026-10-16 09:15,Atendida,3.5,Sim
+SOL-00761,2026-10-16 02:42,Pronto-Socorro,CM,Urgência,2026-10-16 09:38,Atendida,6.9,Não
+SOL-00762,2026-10-16 22:30,Pronto-Socorro,UCI,Urgência,2026-10-17 02:27,Atendida,4,Sim
+SOL-00763,2026-10-16 15:28,Pronto-Socorro,UTIN,Eletiva,2026-10-16 20:01,Atendida,4.5,Sim
+SOL-00764,2026-10-16 06:53,Centro Cirúrgico,UTI,Urgência,2026-10-17 17:43,Atendida,34.8,Não
+SOL-00765,2026-10-16 13:05,Regulação (SISREG),CM,Eletiva,2026-10-16 19:37,Atendida,6.5,Não
+SOL-00766,2026-10-16 23:05,Regulação (SISREG),CM,Urgência,2026-10-17 18:19,Atendida,19.2,Não
+SOL-00767,2026-10-16 19:01,Ambulatório/Eletivo,CM,Eletiva,2026-10-18 21:38,Atendida,50.6,Não
+SOL-00768,2026-10-16 02:51,Ambulatório/Eletivo,CM,Eletiva,2026-10-16 17:15,Atendida,14.4,Não
+SOL-00769,2026-10-16 05:52,Ambulatório/Eletivo,UCI,Eletiva,2026-10-18 16:57,Atendida,59.1,Não
+SOL-00770,2026-10-16 10:17,Centro Cirúrgico,UTI,Eletiva,2026-10-18 05:17,Atendida,43,Não
+SOL-00771,2026-10-16 16:42,Pronto-Socorro,CM,Emergência,2026-10-16 19:17,Atendida,2.6,Sim
+SOL-00772,2026-10-16 00:29,Pronto-Socorro,ONC,Urgência,2026-10-16 02:15,Atendida,1.8,Sim
+SOL-00773,2026-10-16 02:13,Centro Cirúrgico,ORT,Urgência,2026-10-16 07:06,Atendida,4.9,Sim
+SOL-00774,2026-10-16 21:08,Regulação (SISREG),MAT,Eletiva,2026-10-17 03:13,Atendida,6.1,Não
+SOL-00775,2026-10-16 17:22,Ambulatório/Eletivo,CM,Eletiva,2026-10-17 11:05,Atendida,17.7,Não
+SOL-00776,2026-10-16 08:20,Pronto-Socorro,PED,Emergência,2026-10-16 08:59,Atendida,0.6,Sim
+SOL-00777,2026-10-16 06:22,Pronto-Socorro,UCI,Eletiva,2026-10-16 22:56,Atendida,16.6,Não
+SOL-00778,2026-10-16 17:56,Pronto-Socorro,MAT,Emergência,2026-10-16 19:09,Atendida,1.2,Sim
+SOL-00779,2026-10-16 11:40,Pronto-Socorro,UTI,Emergência,2026-10-16 17:04,Atendida,5.4,Sim
+SOL-00780,2026-10-17 12:31,Pronto-Socorro,ORT,Urgência,2026-10-17 14:55,Atendida,2.4,Sim
+SOL-00781,2026-10-17 05:31,Centro Cirúrgico,ORT,Eletiva,2026-10-17 16:12,Atendida,10.7,Não
+SOL-00782,2026-10-17 12:47,Pronto-Socorro,CC,Urgência,2026-10-17 15:46,Atendida,3,Sim
+SOL-00783,2026-10-17 23:44,Regulação (SISREG),CM,Urgência,2026-10-18 08:55,Atendida,9.2,Não
+SOL-00784,2026-10-17 21:49,Regulação (SISREG),UTI,Urgência,2026-10-18 04:08,Atendida,6.3,Não
+SOL-00785,2026-10-17 05:59,Pronto-Socorro,UTI,Eletiva,2026-10-18 19:38,Atendida,37.6,Não
+SOL-00786,2026-10-17 16:54,Pronto-Socorro,UTI,Urgência,2026-10-18 01:57,Atendida,9.1,Não
+SOL-00787,2026-10-17 09:28,Pronto-Socorro,CM,Urgência,2026-10-18 04:09,Atendida,18.7,Não
+SOL-00788,2026-10-17 00:08,Ambulatório/Eletivo,UCI,Eletiva,2026-10-17 12:13,Atendida,12.1,Não
+SOL-00789,2026-10-17 06:58,Regulação (SISREG),CM,Eletiva,2026-10-17 17:49,Atendida,10.8,Não
+SOL-00790,2026-10-17 05:17,Ambulatório/Eletivo,UTI,Eletiva,2026-10-17 13:04,Atendida,7.8,Não
+SOL-00791,2026-10-17 01:06,Regulação (SISREG),CM,Eletiva,2026-10-17 21:00,Atendida,19.9,Não
+SOL-00792,2026-10-17 02:50,Centro Cirúrgico,ORT,Emergência,2026-10-17 10:18,Atendida,7.5,Não
+SOL-00793,2026-10-17 07:37,Pronto-Socorro,CC,Emergência,2026-10-17 09:09,Atendida,1.5,Sim
+SOL-00794,2026-10-17 23:09,Pronto-Socorro,UTIN,Urgência,2026-10-18 01:53,Atendida,2.7,Sim
+SOL-00795,2026-10-17 02:43,Pronto-Socorro,CM,Eletiva,2026-10-17 13:53,Atendida,11.2,Não
+SOL-00796,2026-10-17 17:16,Regulação (SISREG),CC,Urgência,2026-10-17 19:04,Atendida,1.8,Sim
+SOL-00797,2026-10-17 02:58,Pronto-Socorro,MAT,Urgência,2026-10-17 11:32,Atendida,8.6,Não
+SOL-00798,2026-10-17 02:39,Pronto-Socorro,UCI,Urgência,2026-10-17 15:06,Atendida,12.5,Não
+SOL-00799,2026-10-17 20:58,Regulação (SISREG),CC,Urgência,2026-10-18 00:50,Atendida,3.9,Sim
+SOL-00800,2026-10-17 10:34,Ambulatório/Eletivo,UTI,Eletiva,2026-10-18 01:26,Atendida,14.9,Não
+SOL-00801,2026-10-17 15:00,Pronto-Socorro,CM,Urgência,2026-10-17 17:53,Atendida,2.9,Sim
+SOL-00802,2026-10-17 15:24,Centro Cirúrgico,CM,Eletiva,2026-10-18 07:03,Atendida,15.7,Não
+SOL-00803,2026-10-17 03:29,Pronto-Socorro,MAT,Urgência,2026-10-17 05:53,Atendida,2.4,Sim
+SOL-00804,2026-10-17 18:11,Pronto-Socorro,CM,Eletiva,2026-10-18 09:23,Atendida,15.2,Não
+SOL-00805,2026-10-18 07:58,Pronto-Socorro,CM,Urgência,2026-10-18 23:25,Atendida,15.5,Não
+SOL-00806,2026-10-18 10:05,Regulação (SISREG),CM,Urgência,2026-10-19 00:22,Atendida,14.3,Não
+SOL-00807,2026-10-18 05:08,Regulação (SISREG),ORT,Emergência,2026-10-18 06:45,Atendida,1.6,Sim
+SOL-00808,2026-10-18 09:26,Pronto-Socorro,UTI,Urgência,,Pendente,21.6,Não
+SOL-00809,2026-10-18 01:30,Centro Cirúrgico,MAT,Emergência,2026-10-18 02:56,Atendida,1.4,Sim
+SOL-00810,2026-10-18 07:15,Pronto-Socorro,UTI,Urgência,2026-10-18 17:54,Atendida,10.7,Não
+SOL-00811,2026-10-18 13:48,Pronto-Socorro,UTI,Eletiva,,Pendente,17.2,Não
+SOL-00812,2026-10-18 13:58,Regulação (SISREG),CC,Eletiva,2026-10-18 23:05,Atendida,9.1,Não
+SOL-00813,2026-10-18 14:40,Pronto-Socorro,CM,Urgência,2026-10-18 22:31,Atendida,7.8,Não
+SOL-00814,2026-10-18 00:49,Regulação (SISREG),CM,Urgência,2026-10-18 19:09,Atendida,18.3,Não
+SOL-00815,2026-10-18 14:04,Ambulatório/Eletivo,ORT,Eletiva,2026-10-18 20:21,Atendida,6.3,Não
+SOL-00816,2026-10-18 13:05,Pronto-Socorro,CC,Emergência,2026-10-18 13:58,Atendida,0.9,Sim
+SOL-00817,2026-10-18 12:26,Pronto-Socorro,CC,Urgência,2026-10-18 13:39,Atendida,1.2,Sim
+SOL-00818,2026-10-18 13:03,Ambulatório/Eletivo,CM,Eletiva,2026-10-18 21:00,Atendida,7.9,Não
+SOL-00819,2026-10-18 07:17,Pronto-Socorro,CM,Urgência,,Pendente,23.7,Não
+SOL-00820,2026-10-18 15:40,Pronto-Socorro,CC,Urgência,2026-10-18 21:53,Atendida,6.2,Não
+SOL-00822,2026-10-19 06:57,Pronto-Socorro,ORT,Eletiva,,Pendente,0,Não
+SOL-00824,2026-10-19 02:11,Regulação (SISREG),CM,Eletiva,,Pendente,4.8,Não
+SOL-00826,2026-10-19 01:22,Pronto-Socorro,CM,Emergência,2026-10-19 03:11,Atendida,1.8,Sim
+SOL-00829,2026-10-19 00:22,Ambulatório/Eletivo,INF,Eletiva,2026-10-19 06:51,Atendida,6.5,Não
+SOL-00832,2026-10-19 01:08,Pronto-Socorro,ORT,Urgência,2026-10-19 05:56,Atendida,4.8,Sim
+SOL-00833,2026-10-19 02:23,Ambulatório/Eletivo,CM,Eletiva,,Pendente,4.6,Não
+SOL-00836,2026-10-19 02:46,Regulação (SISREG),MAT,Eletiva,,Pendente,4.2,Não
+SOL-00838,2026-10-19 03:15,Pronto-Socorro,UTIN,Urgência,,Pendente,3.7,Não
+SOL-00842,2026-10-19 04:40,Regulação (SISREG),CM,Emergência,2026-10-19 06:18,Atendida,1.6,Sim
+SOL-00844,2026-10-19 04:40,Centro Cirúrgico,INF,Urgência,,Pendente,2.3,Não
+SOL-00848,2026-10-19 06:50,Pronto-Socorro,MAT,Emergência,,Pendente,0.2,Não

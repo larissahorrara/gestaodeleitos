@@ -1,0 +1,37 @@
+id_procedimento,procedimento,id_unidade,permanencia_ref_dias
+PR01,Tratamento de AVC isquêmico,CM,7
+PR02,Tratamento de DPOC exacerbada,CM,5
+PR03,Tratamento de diabetes descompensado,CM,4
+PR04,Tratamento de infecção do trato urinário,CM,4
+PR05,Tratamento de insuficiência cardíaca,CM,6
+PR06,Tratamento de pneumonias,CM,5
+PR07,Tratamento de sepse (enfermaria),CM,8
+PR08,Apendicectomia,CC,3
+PR09,Colecistectomia,CC,3
+PR10,Gastrectomia parcial,CC,7
+PR11,Herniorrafia inguinal,CC,2
+PR12,Laparotomia exploradora,CC,6
+PR13,Tireoidectomia,CC,2
+PR14,Artroplastia de quadril,ORT,5
+PR15,Osteossíntese de tíbia,ORT,4
+PR16,Tratamento cirúrgico de fratura de fêmur,ORT,6
+PR17,Tratamento conservador de fratura,ORT,3
+PR18,Diária de UTI adulto - IAM,UTI,6
+PR19,Diária de UTI adulto - insuficiência respiratória,UTI,9
+PR20,Diária de UTI adulto - pós-operatório,UTI,4
+PR21,Diária de UTI adulto - sepse,UTI,8
+PR22,Cuidados intermediários adulto,UCI,5
+PR23,Tratamento de bronquiolite,PED,4
+PR24,Tratamento de gastroenterite,PED,3
+PR25,Tratamento de pneumonia na criança,PED,5
+PR26,Parto cesariano,MAT,3
+PR27,Parto normal,MAT,2
+PR28,Tratamento de intercorrência na gestação,MAT,3
+PR29,Diária de UTI neonatal - desconforto respiratório,UTIN,8
+PR30,Diária de UTI neonatal - prematuridade,UTIN,15
+PR31,Cuidados paliativos oncológicos,ONC,12
+PR32,Quimioterapia com internação,ONC,5
+PR33,Tratamento de neutropenia febril,ONC,7
+PR34,Tratamento de infecção por germe multirresistente,INF,12
+PR35,Tratamento de meningite,INF,10
+PR36,Tratamento de tuberculose,INF,14
