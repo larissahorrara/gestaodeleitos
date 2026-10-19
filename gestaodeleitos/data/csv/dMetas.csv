@@ -1,0 +1,13 @@
+indicador,meta,unidade_medida,sentido,regra
+Taxa de ocupação (30 dias),0.85,%,Faixa,Atenção a partir de 85%; crítico a partir de 90%
+Ocupação instantânea,0.85,%,Faixa,Crítico a partir de 90% ou com três unidades nesse patamar
+Média de permanência,5.8,dias,Menor é melhor,Meta do hospital ponderada pelos pacientes-dia das metas das unidades
+Pacientes em vermelho (Kanban),0.15,% dos internados,Menor é melhor,Atenção a partir de 15%; crítico a partir de 25%
+Saídas até 10 h,0.3,% das saídas,Maior é melhor,Crítico abaixo de 15%; atenção abaixo de 30%
+Alta médica até a saída,120,minutos (mediana),Menor é melhor,Acima de 120 min indica alta tardia
+Saída até início da higienização,30,minutos (mediana),Menor é melhor,Acima de 30 min indica demora em acionar a limpeza
+Higienização concorrente,60,minutos,Menor é melhor,Acima do alvo atrasa a liberação do leito
+Higienização terminal,120,minutos,Menor é melhor,Acima do alvo atrasa a liberação do leito
+Espera por leito,6,horas,Menor é melhor,Crítico com espera pendente acima de 24 h ou menos de 40% atendidos em até 6 h
+Leitos-dia perdidos com desocupação,0.04,% dos leitos-dia,Menor é melhor,Atenção a partir de 4%; crítico a partir de 8%
+Saldo de leitos do dia,2,leitos,Maior é melhor,Crítico com saldo negativo; atenção com saldo até 2

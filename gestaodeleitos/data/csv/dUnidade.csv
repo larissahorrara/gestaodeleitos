@@ -1,0 +1,11 @@
+id_unidade,unidade,tipo_leito,leitos_instalados,meta_taxa_ocupacao,meta_media_permanencia,custo_diaria,receita_media_aih
+CM,Clínica Médica,Enfermaria clínica,60,0.85,6.5,1180,1850
+CC,Clínica Cirúrgica,Enfermaria cirúrgica,40,0.85,4.5,1290,2900
+ORT,Ortopedia/Traumatologia,Enfermaria cirúrgica,24,0.85,5,1240,4300
+UTI,UTI Adulto,Terapia intensiva adulto,20,0.9,7,3950,7800
+UCI,Semi-intensiva (UCI),Cuidados intermediários,10,0.85,5,2280,3100
+PED,Pediatria,Pediatria,20,0.8,4.5,1120,1500
+MAT,Maternidade,Obstetrícia,26,0.8,2.5,980,1100
+UTIN,UTI Neonatal,Terapia intensiva neonatal,10,0.9,12,4150,9600
+ONC,Oncologia,Oncologia,12,0.85,8,1650,2400
+INF,Infectologia/Isolamento,Isolamento,8,0.8,9,1720,3000

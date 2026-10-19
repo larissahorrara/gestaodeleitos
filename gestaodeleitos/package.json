@@ -1,0 +1,9 @@
+{
+  "name": "gestaodeleitos",
+  "version": "1.1.0",
+  "private": true,
+  "description": "Painel de gestão de leitos hospitalares (censo, Kanban, desocupação e fila do NIR), com base de dados em modelo estrela. Dados fictícios.",
+  "scripts": {
+    "dados": "node scripts/extrair_dados.js"
+  }
+}
